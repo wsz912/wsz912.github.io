@@ -16,10 +16,10 @@ This is the front page of a website that is powered by the [academicpages templa
 🔥 News
 ======
 - *2024.03*: &nbsp;🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 2 Fidelity &
-Efficiency （CVPR 2024 workshop）1st Place/BITSMBU
-- *2024.03*: &nbsp;🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 1 Fidelity Only（CVPR2024 workshop） 2nd Place/BITSMBU
+Efficiency （CVPR 2024 workshop）1st Place
+- *2024.03*: &nbsp;🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 1 Fidelity Only（CVPR2024 workshop） 2nd Place
 - *2024.03*  &nbsp;🎉🎉 NTIRE 2024: Quality Assessment for AI-Generated Content - Track 1 Image
-(CVPR 2024 workshop) 8th Place/PKUMMCAL
+(CVPR 2024 workshop) 8th Place
 - *2024.03*: &nbsp;🎉🎉 Three papers are accepted by ICME 2024!
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS 2024!
 
@@ -32,15 +32,15 @@ Efficiency （CVPR 2024 workshop）1st Place/BITSMBU
 
 🧑‍🔬 Academic Services and Social Works
 ------
--Academic Services
+- _Academic Services_
 
-Regular reviewer for journals: IEEE TMM/TCSVT/TGRS, Patter Recognition, Neurocomputing, etc.
+  Regular reviewer for journals: IEEE TMM/TCSVT/TGRS, Patter Recognition, Neurocomputing, etc.
 
-Regular reviewer for conferences: AAAI'23-24, ICME'24, PRCV'23-24, etc.
+  Regular reviewer for conferences: AAAI'23-24, ICME'24, PRCV'23-24, etc.
 
--Social Works 
+- _Social Works_ 
 
-IEEE/CCF/CSIG Member
+  IEEE/CCF/CSIG Member
 
 ✨ Awards
 ------
