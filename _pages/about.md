@@ -14,13 +14,14 @@ This is the front page of a website that is powered by the [academicpages templa
 
 🔥 News
 ======
+
+- *2024.03*: &nbsp;🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 2 Fidelity &
+Efficiency （CVPR 2024 workshop）**1st Place/BITSMBU**
+- *2024.03*: &nbsp;🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 1 Fidelity Only（CVPR2024 workshop） **2nd Place/BITSMBU**
 - *2024.03*  &nbsp;🎉🎉 NTIRE 2024: Quality Assessment for AI-Generated Content - Track 1 Image
 (CVPR 2024 workshop) 8th Place/PKUMMCAL
-- *2024.03*: &nbsp;🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 2 Fidelity &
-Efficiency （CVPR 2024 workshop）1st Place/BITSMBU
-- *2024.03*: &nbsp;🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 1 Fidelity Only（CVPR2024 workshop） 2nd Place/BITSMBU
-- *2024.03*: &nbsp;🎉🎉 Three papers are accepted by ICME 2024!
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS 2024!
+- *2024.03*: &nbsp;🎉🎉 **Three papers are accepted by ICME 2024!**
+- *2024.01*: &nbsp;🎉🎉 **One paper is accepted by IEEE TGRS 2024!**
 
 📖 Selected Publications
 ======
