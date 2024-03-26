@@ -32,15 +32,9 @@ Efficiency （CVPR 2024 workshop）1st Place
 
 🧑‍🔬 Academic Services and Social Works
 ------
-- _Academic Services_
-
-  Regular reviewer for journals: IEEE TMM/TCSVT/TGRS, Patter Recognition, Neurocomputing, etc.
-
-  Regular reviewer for conferences: AAAI'23-24, ICME'24, PRCV'23-24, etc.
-
-- _Social Works_ 
-
-  IEEE/CCF/CSIG Member
+- Regular reviewer for journals: IEEE TMM/TCSVT/TGRS, Patter Recognition, Neurocomputing, etc. 
+- Regular reviewer for conferences: AAAI'23-24, ICME'24, PRCV'23-24, etc.
+- IEEE/CCF/CSIG Member
 
 ✨ Awards
 ------
