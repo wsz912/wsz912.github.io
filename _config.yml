@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "wsz / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Postdoctoral Researcher at the Peking University Shenzhen Graduate School"
