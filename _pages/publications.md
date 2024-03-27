@@ -33,7 +33,9 @@ author_profile: true
 
 [//]: # ()
 [//]: # ({% if author.googlescholar %})
-  You can also find my full publications on <u><a href="{{https://scholar.google.com/citations?user=XVAhrT4AAAAJ&hl=zh-CN}}">my Google Scholar profile</a>.</u>
+  
+
+You can also find my full publications on <u><a href="{{https://scholar.google.com/citations?user=XVAhrT4AAAAJ&hl=zh-CN}}">my Google Scholar profile</a>.</u>
 
 [//]: # ({% endif %})
 [//]: # ()
