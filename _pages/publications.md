@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 **Selected Publications**
 
-*_Equal Contribution_, † _Corresponding Author(s)_
+*_Equal Contribution_, ^_Corresponding Author(s)_
 
 **2024**
 

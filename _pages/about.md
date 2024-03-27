@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am currently a postdoc researcher at Peking University Shenzhen Graduate School, working closely with Assistant Professor   [Wei Gao](https://github.com/). Before that, I received my Ph.D. degree from Beijing Institute of Technology, under the supervision of Professor [Yao Lu](https://github.com/). My currently research interests include light field image super-resolution, point cloud upsampling and quality assessment for AI-Generated Content. 
 
 
