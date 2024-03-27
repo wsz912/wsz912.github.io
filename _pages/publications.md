@@ -28,33 +28,51 @@ author_profile: true
 * Motion-attentive transition for zero-shot video object segmentation, Proceedings of the AAAI Conference on Artificial Intelligence, 2020. [[PDF](http://academicpages.github.io/files/paper6.pdf)]
 * GAIM: Graph attention interaction model for collective activity recognition, IEEE Transactions on Multimedia, 2019. [[PDF](http://academicpages.github.io/files/paper7.pdf)]
 
-{% comment %}
+[//]: # ()
+[//]: # ({% comment %})
 
-{% if author.googlescholar %}
+[//]: # ()
+[//]: # ({% if author.googlescholar %})
   You can also find my full publications on <u><a href="{{https://scholar.google.com/citations?user=XVAhrT4AAAAJ&hl=zh-CN}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+[//]: # ({% endif %})
+[//]: # ()
+[//]: # ({% include base_path %})
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[//]: # ()
+[//]: # ({% for post in site.publications reversed %})
 
-[]: # Path: _pages/publications.md
-[]: # Compare this snippet from README.md:
-[]: # A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](
-, 2020. [PDF](http://academicpages.github.io/files/paper7.pdf)
+[//]: # (  {% include archive-single.html %})
 
-{% comment %}
+[//]: # ({% endfor %})
+[//]: # ()
+[//]: # ([]: # Path: _pages/publications.md)
 
-{% if author.googlescholar %}
-  You can also find my full publications on <u><a href="{{https://scholar.google.com/citations?user=XVAhrT4AAAAJ&hl=zh-CN}}">my Google Scholar profile</a>.</u>
-{% endif %}
+[//]: # ([]: # Compare this snippet from README.md:)
 
-{% include base_path %}
+[//]: # ([]: # A Github Pages template for academic websites. This was forked &#40;then detached&#41; by [Stuart Geiger]&#40;)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[//]: # (, 2020. [PDF]&#40;http://academicpages.github.io/files/paper7.pdf&#41;)
 
-{% endcomment %}
+[//]: # ()
+[//]: # ({% comment %})
+
+[//]: # ()
+[//]: # ({% if author.googlescholar %})
+
+[//]: # (  You can also find my full publications on <u><a href="{{https://scholar.google.com/citations?user=XVAhrT4AAAAJ&hl=zh-CN}}">my Google Scholar profile</a>.</u>)
+
+[//]: # ({% endif %})
+
+[//]: # ()
+[//]: # ({% include base_path %})
+
+[//]: # ()
+[//]: # ({% for post in site.publications reversed %})
+
+[//]: # (  {% include archive-single.html %})
+
+[//]: # ({% endfor %})
+
+[//]: # ()
+[//]: # ({% endcomment %})
