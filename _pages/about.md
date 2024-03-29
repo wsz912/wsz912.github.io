@@ -46,9 +46,13 @@ Efficiency （CVPR 2024 workshop）1st Place 🥇
 
 
 
-👨‍🏫 Teaching Experience
-------
-- **Teaching Assistant**<br>
-  *Course Name*, Year<br>
-  *University Name*
+[//]: # (👨‍🏫 Teaching Experience)
+
+[//]: # (------)
+
+[//]: # (- **Teaching Assistant**<br>)
+
+[//]: # (  *Course Name*, Year<br>)
+
+[//]: # (  *University Name*)
 
