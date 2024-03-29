@@ -14,25 +14,38 @@ author_profile: true
 
 **Selected Publications**
 
-*_Equal Contribution_, †_Corresponding Author(s)_
+^_Equal Contribution_, †_Corresponding Author(s)_
 
 **2024**
 
-* Two-stage Spatial-Frequency Joint Learning for Large-Factor <u> **Remote Sensing Image Super-Resolution** </u>  [[PDF](http://academicpages.github.io/files/paper1.pdf)]
+* Two-stage spatial-frequency joint learning for large-factor **<u> remote sensing image super-resolution </u>** [[PDF](http://academicpages.github.io/files/paper1.pdf)]
 
   J Wang, Y Lu, **S Wang**, B Wang, X Wang, T Long, _IEEE Transactions on Geoscience and Remote Sensing, 2024_ 
  
 **before 2024**
 
-* Detail-Preserving Transformer for <u>**Light Field Image Super-Resolution**</u> [[PDF](http://academicpages.github.io/files/paper2.pdf)]
+* Detail-preserving transformer for **<u>light field image super-resolution</u>** [[PDF](http://academicpages.github.io/files/paper2.pdf)]
   
-  **S Wang***, T Zhou*, Y Lu, H Di  _Proceedings of the AAAI Conference on Artificial Intelligence, 2022_
+  **S Wang^**, T Zhou^, Y Lu, H Di，_Proceedings of the AAAI Conference on Artificial Intelligence, 2022_
 
-* Contextual transformation network for lightweight remote-sensing image super-resolution, IEEE Transactions on Geoscience and Remote Sensing, 2022. [[PDF](http://academicpages.github.io/files/paper3.pdf)]
-* SCLNet: Spatial context learning network for congested crowd counting, Neurocomputing, 2020. [[PDF](http://academicpages.github.io/files/paper4.pdf)]
-* Matnet: Motion-attentive transition network for zero-shot video object segmentation, IEEE Transactions on Image Processing, 2020. [[PDF](http://academicpages.github.io/files/paper5.pdf)]
-* Motion-attentive transition for zero-shot video object segmentation, Proceedings of the AAAI Conference on Artificial Intelligence, 2020. [[PDF](http://academicpages.github.io/files/paper6.pdf)]
-* GAIM: Graph attention interaction model for collective activity recognition, IEEE Transactions on Multimedia, 2019. [[PDF](http://academicpages.github.io/files/paper7.pdf)]
+* Contextual transformation network for lightweight **<u>remote-sensing image super-resolution</u>**[[PDF](http://academicpages.github.io/files/paper3.pdf)]
+
+  **S Wang**, T Zhou, Y Lu, H Di，_IEEE Transactions on Geoscience and Remote Sensing, 2022_
+
+* SCLNet: Spatial context learning network for congested **<u>crowd counting</u>** [[PDF](http://academicpages.github.io/files/paper4.pdf)]
+    
+  **S Wang**, Y Lu, T Zhou, H Di, L Lu, L Zhang, _Neurocomputing, 2020_
+* Matnet: Motion-attentive transition network for **<u>zero-shot video object segmentation</u>** [[PDF](http://academicpages.github.io/files/paper5.pdf)]
+
+  T Zhou, J Li, **S Wang**, R Tao, J Shen, _IEEE Transactions on Image Processing, 2020_
+
+* Motion-attentive transition for **<u>zero-shot video object segmentation</u>** [[PDF](http://academicpages.github.io/files/paper6.pdf)]
+
+  T Zhou, **S Wang**, Y Zhou, Y Yao, J Li, J Shen , _Proceedings of the AAAI Conference on Artificial Intelligence, 2020_
+
+* GAIM: Graph attention interaction model for  **<u>collective activity recognition</u>** [[PDF](http://academicpages.github.io/files/paper7.pdf)]
+
+  L Lu, Y Lu, R Yu, H Di, L Zhang, **S Wang**, _IEEE Transactions on Multimedia, 2019_
 
 You can also find my full publications on <u><a href="{{https://scholar.google.com/citations?user=XVAhrT4AAAAJ&hl=zh-CN}}">my Google Scholar profile</a>.</u>
 
