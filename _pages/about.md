@@ -46,13 +46,19 @@ Efficiency （CVPR 2024 workshop）1st Place 🥇
 
 
 
-[//]: # (👨‍🏫 Teaching Experience)
+👨‍🏫  Teaching Experience
+------
 
-[//]: # (------)
+* **Teaching Assistant**<br>
 
-[//]: # (- **Teaching Assistant**<br>)
-
-[//]: # (  *Course Name*, Year<br>)
-
-[//]: # (  *University Name*)
-
+    *Computational Neuroscience*, 2022.09-2022.10, Beijing Institute of Technology<br>
+    
+    *Computer Graphics and Image Processing*, 2021.03-2021.06, Beijing Institute of Technology<br>
+    
+    *Digital Image Processing*, 2020.10-2021.01, Beijing Institute of Technology<br>
+    
+    *Computer Graphics and Image Processing*, 2020.03-2020.06, Beijing Institute of Technology<br>
+    
+    *Pattern Recognition and Computer Vision*, 2020.03-2020.06, Beijing Institute of Technology<br>
+    
+    *Computer Graphics and Image Processing*, 2019.03-2019.06, Beijing Institute of Technology<br>
