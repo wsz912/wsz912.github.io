@@ -36,7 +36,7 @@ Efficiency （CVPR 2024 workshop）1st Place
 ------
 - Regular reviewer for journals: IEEE TMM/TCSVT/TGRS/TIV, Pattern Recognition, Neurocomputing, etc. 
 - Regular reviewer for conferences: AAAI'23-24, ICME'24, PRCV'23-24, etc.
-- IEEE/CCF/CSIG Member
+- IEEE Member
 
 ✨ Awards
 ------
