@@ -38,7 +38,7 @@ Efficiency （CVPR 2024 workshop）1st Place
 - Regular reviewer for conferences: AAAI'23-24, ICME'24, PRCV'23-24, etc.
 - IEEE Member
 
-✨ Awards
+🎇 Awards
 ------
 - NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 2 Fidelity &
 Efficiency （CVPR 2024 workshop）1st Place 🥇
