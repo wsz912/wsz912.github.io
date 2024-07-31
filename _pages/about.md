@@ -13,13 +13,15 @@ I am currently a postdoctoral researcher at Peking University Shenzhen Graduate 
 
 🔥 News
 ======
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by Remote Sensing!
+- *2024.06*: &nbsp;🎉🎉 One paper is accepted by PRCV 2024!
 - *2024.03*: &nbsp;🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 2 Fidelity &
 Efficiency （CVPR 2024 workshop）1st Place
 - *2024.03*: &nbsp;🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 1 Fidelity Only（CVPR2024 workshop） 2nd Place
 - *2024.03*  &nbsp;🎉🎉 NTIRE 2024: Quality Assessment for AI-Generated Content - Track 1 Image
 (CVPR 2024 workshop) 8th Place
 - *2024.03*: &nbsp;🎉🎉 Three papers are accepted by ICME 2024!
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS 2024!
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS!
 
 [//]: # (📖 Selected Publications)
 
