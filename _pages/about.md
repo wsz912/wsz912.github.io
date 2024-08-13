@@ -13,6 +13,7 @@ I am currently a postdoctoral researcher at Peking University Shenzhen Graduate 
 
 🔥 News
 ======
+- *2024.08*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by Remote Sensing!
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by PRCV 2024!
 - *2024.03*: &nbsp;🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 2 Fidelity &
