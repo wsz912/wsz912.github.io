@@ -13,6 +13,7 @@ I am currently a postdoctoral researcher at Peking University Shenzhen Graduate 
 
 🔥 News
 ======
+- *2024.09*: &nbsp;🎂🎂 Happy 1st birthday to Tutu! 
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer!
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by IEEE SPL!
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM!
