@@ -10,8 +10,6 @@ redirect_from:
 
 I am currently a postdoctoral researcher at Peking University Shenzhen Graduate School, working closely with Assistant Professor   [Wei Gao](https://gaowei262.github.io/). Before that, I received my Ph.D. degree from Beijing Institute of Technology, under the supervision of Professor [Yao Lu](https://www.smbu.edu.cn/info/5721/77061.htm). My currently research interests include light field image super-resolution, point cloud upsampling and quality assessment for AI-Generated Content. 
 
-
-
 🔥 News
 ======
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS!
