@@ -13,6 +13,7 @@ I am currently a postdoctoral researcher at Peking University Shenzhen Graduate 
 
 🔥 News
 ======
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS!
 - *2024.09*: &nbsp;🎂🎂 Happy 1st birthday to Tutu! 
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer!
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by IEEE SPL!
@@ -42,7 +43,7 @@ Efficiency （CVPR 2024 workshop）1st Place
 ------
 - Regular reviewer for journals: IEEE TMM/TCSVT/TGRS, Pattern Recognition, Neurocomputing, etc. 
 - Regular reviewer for conferences: AAAI'23-25, ICME'24, ACM MM'24, PRCV'23-24, etc.
-- IEEE/CSIG Member
+- IEEE/CSIG/CAAI Member
 
 🎇 Awards
 ------
