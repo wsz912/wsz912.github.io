@@ -23,7 +23,7 @@ author_profile: false
   J Hao, W Li, Y Lu, Y Jin, Y Zhao, **S Wang†**, B Wang, _IEEE Transactions on Geoscience and Remote Sensing, 2024_ 
  
 
-* Adaptive fusion learning for **<u>compositional zero-shot recognition</u>** [[PDF](https://ieeexplore.ieee.org/)]
+* Adaptive fusion learning for **<u>compositional zero-shot recognition</u>** [[PDF](https://ieeexplore.ieee.org/document/10814709)]
   
   L Min, Z Fan, **S Wang†**, F Dou, X Li, B Wang, _IEEE Transactions on Multimedia, 2024_ 
 
