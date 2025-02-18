@@ -56,6 +56,6 @@ author_profile: false
 
   L Lu, Y Lu, R Yu, H Di, L Zhang, **S Wang**, _IEEE Transactions on Multimedia, 2019_
 
-You can also find my full publications on <u>my Google Scholar profile.</u> (https://scholar.google.com/citations?user=XVAhrT4AAAAJ&hl=zh-CN)
+You can also find my full publications on [my Google Scholar profile](https://scholar.google.com/citations?user=XVAhrT4AAAAJ&hl=zh-CN).
 
 
