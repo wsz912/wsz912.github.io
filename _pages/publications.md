@@ -16,6 +16,13 @@ author_profile: false
 
 ^_Equal Contribution_, †_Corresponding Author(s)_
 
+
+**2025**
+
+* Multimodal large models are effective **<u>acction anticipators</u>** [[PDF](https://arxiv.org/pdf/2501.00795)]
+
+  B Wang, Y Tian, S Wang, L Yang, _IEEE Transactions on Multimedia, 2025_ 
+
 **2024**
 
 * Scale-aware backprojection transformer for single **<u>remote sensing image super-resolution </u>** [[PDF](https://ieeexplore.ieee.org/abstract/document/10753509)]
