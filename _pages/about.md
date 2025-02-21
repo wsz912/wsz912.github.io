@@ -12,6 +12,7 @@ I am currently a postdoctoral researcher at Peking University Shenzhen Graduate 
 
 🔥 News
 ======
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by Knowledge-Based Systems!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by ICASSP!
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS!
