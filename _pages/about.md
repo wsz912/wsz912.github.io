@@ -12,6 +12,7 @@ I am currently a postdoctoral researcher at Peking University Shenzhen Graduate 
 
 🔥 News
 ======
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by ICME 2025!
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by Knowledge-Based Systems!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by ICASSP!
@@ -44,7 +45,7 @@ Efficiency （CVPR 2024 workshop）1st Place
 🧑‍🔬 Academic Services and Social Works
 ------
 - **Regular reviewer for journals**:<br>
-IEEE TIP/TMM/TCSVT/TGRS/TAI/TSMCA/TDSC/JSTARS/TETCI/JBHI/MM/SPL/GRSL, <br>Information Fusion, Pattern Recognition, Neurocomputing, <br> Neural Network, Computer Vision and Image Understanding, 
+IEEE TIP/TMM/TCSVT/TNNLS/TGRS/TAI/TII/TSMCA/TDSC/JSTARS/TETCI/JBHI/MM/SPL/GRSL, <br>Information Fusion, Pattern Recognition, Neurocomputing, <br> Neural Network, Computer Vision and Image Understanding, 
 <br> Machine Intelligence Research, etc.
 - **Regular reviewer for conferences**: <br>AAAI'23-25, ICME'24-25, ACM MM'24-25, PRCV'23-24, etc.
 - **Membership**: IEEE/CSIG/CAAI Member
