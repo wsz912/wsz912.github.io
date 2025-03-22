@@ -73,3 +73,6 @@ Efficiency （CVPR 2024 workshop）1st Place 🥇
     *Pattern Recognition and Computer Vision*, 2020.03-2020.06, Beijing Institute of Technology<br>
     
     *Computer Graphics and Image Processing*, 2019.03-2019.06, Beijing Institute of Technology<br>
+
+👨‍🏫  Collaborator
+------
