@@ -45,7 +45,7 @@ Efficiency （CVPR 2024 workshop）1st Place
 🧑‍🔬 Academic Services and Social Works
 ------
 - **Regular reviewer for journals**:<br>
-IEEE TIP/TMM/TCSVT/TNNLS/TGRS/TITS/TAI/TII/TSMCA/TDSC/JSTARS/TETCI/JBHI/MM/SPL/GRSL, <br>Information Fusion, Pattern Recognition, Neurocomputing, <br> Neural Network, Computer Vision and Image Understanding, 
+IEEE TIP/TMM/TCSVT/TNNLS/TGRS/TMI/TITS/TAI/TII/ <br>TSMCA/TDSC/JSTARS/TETCI/JBHI/MM/SPL/GRSL, <br>Information Fusion, Pattern Recognition, Neurocomputing, <br> Neural Network, Computer Vision and Image Understanding, 
 <br> Machine Intelligence Research, etc.
 - **Regular reviewer for conferences**: <br>AAAI'23-25, ICME'24-25, ACM MM'24-25, PRCV'23-24, etc.
 - **Membership**: IEEE/CSIG/CAAI Member
@@ -75,5 +75,7 @@ Efficiency （CVPR 2024 workshop）1st Place 🥇
     *Computer Graphics and Image Processing*, 2019.03-2019.06, Beijing Institute of Technology<br>
 
 
-👨‍🏫  Collaborator
+🌞  Collaborator
 ------
+
+[//]: # (- **[Yao Lu]&#40;https://www.smbu.edu.cn/info/5721/77061.htm&#41;**, Professor, Beijing Institute of Technology)
