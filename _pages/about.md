@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am currently a postdoctoral researcher at Peking University Shenzhen Graduate School, working closely with Assistant Professor   [Wei Gao](https://gaowei262.github.io/). Before that, I received my Ph.D. degree from Beijing Institute of Technology, under the supervision of Professor [Yao Lu](https://www.smbu.edu.cn/info/5721/77061.htm). My currently research interests include light field image super-resolution, point cloud upsampling and quality assessment for AI-Generated Content. 
+I am a lecturer (HEUN-100 Talents Program) at Henan University.
+Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Graduate School, working closely with Assistant Professor   [Wei Gao](https://gaowei262.github.io/). I received my Ph.D. degree from Beijing Institute of Technology, under the supervision of Professor [Yao Lu](https://www.smbu.edu.cn/info/5721/77061.htm). My current research interests include light field image super-resolution, depth estimation and 3DGS. 
 
 🔥 News
 ======
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by CAAI Artificial Intelligence Research!
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by ICME 2025!
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by Knowledge-Based Systems!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM!
@@ -45,9 +46,9 @@ Efficiency （CVPR 2024 workshop）1st Place
 🧑‍🔬 Academic Services and Social Works
 ------
 - **Regular reviewer for journals**:<br>
-IEEE TIP/TMM/TCSVT/TNNLS/TGRS/TMI/TITS/TAI/TII/ <br>TSMCA/TDSC/JSTARS/TETCI/JBHI/MM/SPL/GRSL, <br>Information Fusion, Pattern Recognition, Neurocomputing, <br> Neural Network, Computer Vision and Image Understanding, 
+IEEE TPAMI/TIP/TMM/TCSVT/TNNLS/TGRS/TMI/TITS/TAI/TII/ <br>TSMCA/TDSC/JSTARS/TETCI/JBHI/MM/SPL/GRSL, <br>Information Fusion, Pattern Recognition, Neurocomputing, <br> Neural Network, Computer Vision and Image Understanding, 
 <br> Machine Intelligence Research, etc.
-- **Regular reviewer for conferences**: <br>AAAI'23-25, ICME'24-25, ACM MM'24-25, PRCV'23-24, etc.
+- **Regular reviewer for conferences**: <br>AAAI'23-26, ICME'24-25, ACM MM'24-25, PRCV'23-25, ICIG'25 etc.
 - **Membership**: IEEE/CSIG/CAAI Member
 
 🎇 Awards
@@ -75,7 +76,5 @@ Efficiency （CVPR 2024 workshop）1st Place 🥇
     *Computer Graphics and Image Processing*, 2019.03-2019.06, Beijing Institute of Technology<br>
 
 
-🌞  Collaborator
-------
 
 [//]: # (- **[Yao Lu]&#40;https://www.smbu.edu.cn/info/5721/77061.htm&#41;**, Professor, Beijing Institute of Technology)

@@ -21,7 +21,7 @@ author_profile: false
 
 * Multimodal large models are effective **<u>acction anticipators</u>** [[PDF](https://arxiv.org/pdf/2501.00795)]
 
-  B Wang, Y Tian, S Wang, L Yang, _IEEE Transactions on Multimedia, 2025_ 
+  B Wang, Y Tian, **S Wang**, L Yang, _IEEE Transactions on Multimedia, 2025_ 
 
 **2024**
 
