@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a lecturer (HEUN-100 Talents Program) at Henan University.
+I am a lecturer (HENU-100 Talents Program) at Henan University.
 Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Graduate School, working closely with Assistant Professor   [Wei Gao](https://gaowei262.github.io/). I received my Ph.D. degree from Beijing Institute of Technology, under the supervision of Professor [Yao Lu](https://www.smbu.edu.cn/info/5721/77061.htm). My current research interests include light field image super-resolution, depth estimation and 3DGS. 
 
 <strong style="color: red; text-decoration: underline;">【招生】2025年有一个硕士名额，欢迎感兴趣的同学与我邮件联系。</strong>
