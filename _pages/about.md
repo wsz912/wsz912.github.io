@@ -16,6 +16,7 @@ Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Gra
 🔥 News
 ======
 - *2025.09*: &nbsp;🎂🎂 Happy the 2nd birthday to Tutu! 
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by Engineering Applications of Artificial Intelligence!
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by CAAI Artificial Intelligence Research!
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by ICME 2025!
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by Knowledge-Based Systems!
