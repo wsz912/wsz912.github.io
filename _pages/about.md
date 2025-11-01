@@ -68,6 +68,9 @@ Efficiency （CVPR 2024 workshop）1st Place 🥇
 - **Hongxin Zhang** (Henan University, Master Student, 2025-now, Co-advise with Dr. Lvchen Cao) *Retinal
 Fundus Images Enhancement*
 
+📽️ Alumni
+------
+- TBC
 
 👨‍🏫  Teaching Experience
 ------
