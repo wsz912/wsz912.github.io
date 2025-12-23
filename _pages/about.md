@@ -64,10 +64,15 @@ Efficiency （CVPR 2024 workshop）1st Place 🥇
 🚀 Group
 ------
 
-- **Kai Cui** (Henan University, Master Student, 2025-now) *Remote Sensing Image Super-Resolution*
-- **Hongxin Zhang** (Henan University, Master Student, 2025-now, Co-advise with Dr. Lvchen Cao) *Retinal
+- **Master Students**
+
+   Kai Cui (Henan University, 2025-now) *Remote Sensing Image Super-Resolution*
+
+   Hongxin Zhang (Henan University, 2025-now, Co-advise with Dr. Lvchen Cao) *Retinal
 Fundus Images Enhancement*
-- **Xiaochen Li** (Henan University, Undergraduate Student, 2025-now) *Remote Sensing Image Super-Resolution*
+- **Undergraduate Students** 
+
+  Xiaochen Li (Henan University, 2025-now) *Remote Sensing Image Super-Resolution*
 
 📽️ Alumni
 ------
