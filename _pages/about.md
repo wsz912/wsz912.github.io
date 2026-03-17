@@ -14,8 +14,6 @@ Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Gra
 
 <strong style="color: red; text-decoration: underline line-through;">【招生】2025年有1个硕士名额，欢迎感兴趣的同学与我邮件联系。</strong>
 
-
-
 🔥 News
 ======
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP. 
