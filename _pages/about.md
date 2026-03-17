@@ -16,6 +16,7 @@ Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Gra
 
 🔥 News
 ======
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP. 
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition. Congratulations to Wang Xia.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications.
 - *2026.01*: &nbsp;🎉🎉 Three papers are accepted by ICASSP 2026! Congratulations to Wang Xia, Yuhao, Yue Yan. 

@@ -16,6 +16,12 @@ author_profile: false
 
 ^_Equal Contribution_, †_Corresponding Author(s)_
 
+**2026**
+
+* Com-PCQA: No-reference point cloud **<u>quality assessment</u>** via complex-valued feature learning [[PDF](https://ieeexplore.ieee.org/Xplore/home.jsp)]
+
+  J Su, G Li, **S Wang**, H Su, W Lin, W Gao, _IEEE Transactions on Image Processing, 2026_ 
+
 
 **2025**
 
