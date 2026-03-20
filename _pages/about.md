@@ -93,6 +93,9 @@ Fundus Images Enhancement*
 
 👨‍🏫  Teaching Experience
 ------
+* **Instructor**<br>
+
+    *Computer Vision Open-Source Library Applications*, Spring 2026, Henan University
 
 * **Teaching Assistant**<br>
 
