@@ -58,7 +58,7 @@ Efficiency （CVPR 2024 workshop）1st Place
 - **Regular reviewer for journals**:<br>
 IEEE TPAMI/TIP/TMM/TCSVT/TNNLS/TGRS/TMI/TITS/TAI/TII/ <br>TSMCA/TDSC/JSTARS/TETCI/JBHI/MM/SPL/GRSL, <br>Information Fusion, Pattern Recognition, Neurocomputing, <br> Neural Network, Computer Vision and Image Understanding, 
 <br> Machine Intelligence Research, etc.
-- **Regular reviewer for conferences**: <br>AAAI'23-26, ICME'24-26, ICASSP'26, ACM MM'24-26, PRCV'23-25, ICIG'25 etc.
+- **Regular reviewer for conferences**: <br>AAAI'23-26, ICME'24-26, ICASSP'26, ACM MM'24-26, PRCV'23-26, ICIG'25 etc.
 - **Membership**: IEEE/CSIG/CAAI Member
 
 🎇 Awards
@@ -76,9 +76,16 @@ Efficiency （CVPR 2024 workshop）1st Place 🥇
 
    Hongxin Zhang (Henan University, 2025-now, Co-advise with Dr. Lvchen Cao) *Retinal
 Fundus Images Enhancement*
+
 - **Undergraduate Students** 
 
   Xiaochen Li (Henan University, 2025-now) *Remote Sensing Image Super-Resolution*
+  
+  Shaohui Liang (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
+
+  Yiyi Wang (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
+
+  Shuojie Zhu (Henan Normal University, 2026-now) *Remote Sensing Image Super-Resolution*
 
 📽️ Alumni
 ------
