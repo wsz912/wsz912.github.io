@@ -82,6 +82,8 @@ Fundus Images Enhancement*
 
   Xiaochen Li (Henan University, 2025-now) *Remote Sensing Image Super-Resolution*
   
+  Shuojie Zhu (Henan Normal University, 2026-now) *Remote Sensing Image Super-Resolution*
+
   Shaohui Liang (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
 
   Yiyi Wang (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
