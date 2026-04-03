@@ -10,7 +10,7 @@ redirect_from:
 I am a lecturer (HENU-100 Talents Program) at Henan University.
 Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Graduate School, working closely with Tenured Associate Professor   [Wei Gao](https://gaowei262.github.io/). I received my Ph.D. degree from Beijing Institute of Technology, under the supervision of Professor [Yao Lu](https://www.smbu.edu.cn/info/5721/77061.htm). My current research interests include light field image super-resolution, depth estimation and 3DGS. 
 
-<strong style="color: red; text-decoration: underline;">【招生】招收2026级硕士研究生（学硕/专硕），欢迎感兴趣的同学与我邮件联系。</strong>
+<strong style="color: red; text-decoration: underline;">【招生】招收2026级硕士研究生（控制科学与工程学硕/控制工程专硕/人工智能专硕），目前还有多个名额，欢迎感兴趣的同学与我邮件联系。</strong>
 
 <strong style="color: red; text-decoration: underline line-through;">【招生】2025年有1个硕士名额，欢迎感兴趣的同学与我邮件联系。</strong>
 
@@ -72,21 +72,28 @@ Efficiency （CVPR 2024 workshop）1st Place 🥇
 ------
 
 - **Master Students**
+   
+   **2025**
 
-   Kai Cui (Henan University, 2025-now) *Remote Sensing Image Super-Resolution*
+   <u>Kai Cui</u> (Henan University, 2025-now) *Remote Sensing Image Super-Resolution*
 
-   Hongxin Zhang (Henan University, 2025-now, Co-advise with Dr. Lvchen Cao) *Retinal
+   <u>Hongxin Zhang</u> (Henan University, 2025-now, Co-advise with Dr. Lvchen Cao) *Retinal
 Fundus Images Enhancement*
+   
+   **2026**   
+
+   <u>Mengru Chen</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
+
 
 - **Undergraduate Students** 
 
-  Xiaochen Li (Henan University, 2025-now) *Remote Sensing Image Super-Resolution*
+  <u>Xiaochen Li</u> (Henan University, 2025-now) *Remote Sensing Image Super-Resolution*
   
-  Shuojie Zhu (Henan Normal University, 2026-now) *Remote Sensing Image Super-Resolution*
+   <u>Shuojie Zhu</u> (Henan Normal University, 2026-now) *Remote Sensing Image Super-Resolution*
 
-  Shaohui Liang (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
+  <u>Shaohui Liang</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
 
-  Yiyi Wang (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
+  <u>Yiyi Wang</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
 
 📽️ Alumni
 ------
