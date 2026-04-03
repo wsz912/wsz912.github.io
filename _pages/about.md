@@ -12,8 +12,6 @@ Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Gra
 
 <strong style="color: red; text-decoration: underline;">【招生】招收2026级硕士研究生（控制科学与工程学硕/控制工程专硕/人工智能专硕），目前还有多个名额，欢迎感兴趣的同学与我邮件联系。</strong>
 
-<strong style="color: red; text-decoration: underline line-through;">【招生】2025年有1个硕士名额，欢迎感兴趣的同学与我邮件联系。</strong>
-
 🔥 News
 ======
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition. 
