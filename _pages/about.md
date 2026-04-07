@@ -12,7 +12,7 @@ Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Gra
 
 I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](https://www.tfzhou.com/) (Beijing Institute of Technology). I am also happy to cooperate with excellent junior fellow Wang Xia, Ziman Fan, et al..
 
-<strong style="color: red; text-decoration: underline;">【招生】招收2026级硕士研究生（控制科学与工程学硕/控制工程专硕/人工智能专硕），目前已确定1人，还有多个名额，欢迎感兴趣的同学与我邮件联系。</strong>
+<strong style="color: red; text-decoration: underline;">【招生】2026级硕士研究生（控制科学与工程学硕/控制工程专硕/人工智能专硕）已确定2人，9月份双选前如还有名额我会说明，感谢各位同学关注！</strong>
 
 🔥 News
 ======
@@ -83,6 +83,8 @@ Fundus Images Enhancement*
    **2026**   
 
    <u>Mengru Chen</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
+
+   <u>Wenbo Zhang</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
 
 
 - **Undergraduate Students** 
