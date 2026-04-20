@@ -16,7 +16,7 @@ I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](h
 
 🔥 News
 ======
-- *2026.04*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. Congratulations to Shuang Chen.
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition. 
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP. 
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition. Congratulations to Wang Xia.
