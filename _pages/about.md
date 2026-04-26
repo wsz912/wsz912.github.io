@@ -73,6 +73,7 @@ IEEE TPAMI/TIP/TMM/TCSVT/TNNLS/TGRS/TMI/TITS/TAI/TII/ <br>TSMCA/TDSC/JSTARS/TETC
 - NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 2 Fidelity &
 Efficiency （CVPR 2024 workshop）1st Place 🥇
 - NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 1 Fidelity Only（CVPR2024 workshop） 2nd Place 🥈
+- ICME 2026 Grand Challenge Industrial Defect Analysis - Track 1 Cross-Scenario Defect Detection 3rd Place 🥉
 
 🚀 Group
 ------
