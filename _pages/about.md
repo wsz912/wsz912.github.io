@@ -23,31 +23,30 @@ I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](h
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition. Congratulations to Wang Xia.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications.
 - *2026.01*: &nbsp;🎉🎉 Three papers are accepted by ICASSP 2026! Congratulations to Wang Xia, Yuhao, Yue Yan. 
-
 <details>
 <summary><strong>Earlier News before 2026</strong></summary>
 
-- *2025.09*: &nbsp;🎂🎂 Happy the 2nd birthday to Tutu! 
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by Engineering Applications of Artificial Intelligence!
-- *2025.04*: &nbsp;🎉🎉 One paper is accepted by CAAI Artificial Intelligence Research!
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted by ICME 2025!
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by Knowledge-Based Systems!
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM!
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by ICASSP!
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS!
-- *2024.09*: &nbsp;🎂🎂 Happy the 1st birthday to Tutu! 
-- *2024.08*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer!
-- *2024.08*: &nbsp;🎉🎉 One paper is accepted by IEEE SPL!
-- *2024.08*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM!
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by Remote Sensing!
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted by PRCV 2024!
-- *2024.03*: &nbsp;🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 2 Fidelity &
-Efficiency （CVPR 2024 workshop）1st Place
-- *2024.03*: &nbsp;🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 1 Fidelity Only（CVPR2024 workshop） 2nd Place
-- *2024.03*  &nbsp;🎉🎉 NTIRE 2024: Quality Assessment for AI-Generated Content - Track 1 Image
-(CVPR 2024 workshop) 8th Place
-- *2024.03*: &nbsp;🎉🎉 Three papers are accepted by ICME 2024!
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS!
+<ul>
+  <li><em>2025.09:</em> 🎂🎂 Happy the 2nd birthday to Tutu!</li>
+  <li><em>2025.08:</em> 🎉🎉 One paper is accepted by Engineering Applications of Artificial Intelligence!</li>
+  <li><em>2025.04:</em> 🎉🎉 One paper is accepted by CAAI Artificial Intelligence Research!</li>
+  <li><em>2025.03:</em> 🎉🎉 One paper is accepted by ICME 2025!</li>
+  <li><em>2025.02:</em> 🎉🎉 One paper is accepted by Knowledge-Based Systems!</li>
+  <li><em>2024.12:</em> 🎉🎉 One paper is accepted by IEEE TMM!</li>
+  <li><em>2024.12:</em> 🎉🎉 One paper is accepted by ICASSP!</li>
+  <li><em>2024.11:</em> 🎉🎉 One paper is accepted by IEEE TGRS!</li>
+  <li><em>2024.09:</em> 🎂🎂 Happy the 1st birthday to Tutu!</li>
+  <li><em>2024.08:</em> 🎉🎉 One paper is accepted by The Visual Computer!</li>
+  <li><em>2024.08:</em> 🎉🎉 One paper is accepted by IEEE SPL!</li>
+  <li><em>2024.08:</em> 🎉🎉 One paper is accepted by IEEE TMM!</li>
+  <li><em>2024.07:</em> 🎉🎉 One paper is accepted by Remote Sensing!</li>
+  <li><em>2024.06:</em> 🎉🎉 One paper is accepted by PRCV 2024!</li>
+  <li><em>2024.03:</em> 🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 2 Fidelity &amp; Efficiency (CVPR 2024 Workshop) 1st Place</li>
+  <li><em>2024.03:</em> 🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 1 Fidelity Only (CVPR 2024 Workshop) 2nd Place</li>
+  <li><em>2024.03:</em> 🎉🎉 NTIRE 2024: Quality Assessment for AI-Generated Content - Track 1 Image (CVPR 2024 Workshop) 8th Place</li>
+  <li><em>2024.03:</em> 🎉🎉 Three papers are accepted by ICME 2024!</li>
+  <li><em>2024.01:</em> 🎉🎉 One paper is accepted by IEEE TGRS!</li>
+</ul>
 
 </details>
 
