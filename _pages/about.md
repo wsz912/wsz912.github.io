@@ -23,8 +23,9 @@ I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](h
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition. Congratulations to Wang Xia.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications.
 - *2026.01*: &nbsp;🎉🎉 Three papers are accepted by ICASSP 2026! Congratulations to Wang Xia, Yuhao, Yue Yan. 
-<details>
-<summary><strong>Earlier News before 2026</strong></summary>
+
+  <details>
+  <summary><strong>Earlier News before 2026</strong></summary>
 
 
 - *2025.09*: &nbsp;🎂🎂 Happy the 2nd birthday to Tutu! 
