@@ -26,6 +26,7 @@ I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](h
 <details>
 <summary><strong>Earlier News before 2026</strong></summary>
 
+
 - *2025.09*: &nbsp;🎂🎂 Happy the 2nd birthday to Tutu! 
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by Engineering Applications of Artificial Intelligence!
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by CAAI Artificial Intelligence Research!
@@ -47,6 +48,8 @@ Efficiency （CVPR 2024 workshop）1st Place
 (CVPR 2024 workshop) 8th Place
 - *2024.03*: &nbsp;🎉🎉 Three papers are accepted by ICME 2024!
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS!
+
+
 </details>
 
 [//]: # (📖 Selected Publications)
