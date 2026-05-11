@@ -1,6 +1,6 @@
 ---
 title: "VALSE 2026 武汉参会"
-excerpt: "实验室同学一起参加VALSE2026会议<br/><img src='/images/VALSE2026.jpg'>"
+excerpt: "实验室同学一起参加VALSE2026会议<br/><img src='/images/VALSE2026.jpg' style='width:500px;height:300px;object-fit:cover;'>"
 collection: portfolio
 ---
 
