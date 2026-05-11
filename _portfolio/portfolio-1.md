@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "VALSE 2026 武汉参会"
+excerpt: "实验室同学一起参加VALSE2026会议<br/><img src='/images/VALSE2026.jpg'>"
 collection: portfolio
 ---
 
