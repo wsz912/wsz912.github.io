@@ -90,9 +90,9 @@ Fundus Images Enhancement*
    
    **2026**   
 
-   <u>Mengru Chen</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
+   <u>Mengru Chen</u> (Henan University, 2026-now) *Image Quality Assessment*
 
-   <u>Wenbo Zhang</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
+   <u>Wenbo Zhang</u> (Henan University, 2026-now) *Light Field Image Super-Resolution*
 
 
 - **Undergraduate Students** 
@@ -104,6 +104,8 @@ Fundus Images Enhancement*
   <u>Shaohui Liang</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
 
   <u>Yiyi Wang</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
+
+  <u>Xucheng Du</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
 
 📽️ Alumni
 ------
