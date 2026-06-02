@@ -90,9 +90,9 @@ Fundus Images Enhancement*
    
    **2026**   
 
-   <u>Mengru Chen</u> (Henan University, 2026-now) *Image Quality Assessment*
+   <u>Mengru Chen</u> (Henan University, 2026-now) *3DGS Quality Assessment*
 
-   <u>Wenbo Zhang</u> (Henan University, 2026-now) *Light Field Image Super-Resolution*
+   <u>Wenbo Zhang</u> (Henan University, 2026-now) *3DGS Super-Resolution*
 
 
 - **Undergraduate Students** 
