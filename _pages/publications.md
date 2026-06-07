@@ -28,12 +28,6 @@ continuous **<u>remote sensing image super resolution</u>** [[PDF](https://ieeex
   S Chen, **S Wang**, Y Lu, C Li，_IEEE Transactions on Geoscience and Remote Sensing, 2026_
 
 
-* OFTNet: Omni feature and texture aware enhancement learning network for
-continuous **<u>remote sensing image super resolution</u>** [[PDF](https://ieeexplore.ieee.org/Xplore/home.jsp)]
-
-  S Chen, **S Wang**, Y Lu, C Li，_IEEE Transactions on Geoscience and Remote Sensing, 2026_
-
-
 * Com-PCQA: No-reference point cloud **<u>quality assessment</u>** via complex-valued feature learning [[PDF](https://ieeexplore.ieee.org/document/11456849)]
 
   J Su, G Li, **S Wang**, H Su, W Lin, W Gao, _IEEE Transactions on Image Processing, 2026_ 
