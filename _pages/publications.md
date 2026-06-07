@@ -18,6 +18,16 @@ author_profile: false
 
 **2026**
 
+* SO-DETR: **<u>Small Object Detection</u>** Transformer via State Space Duality Encoder and Multi-Group Rank Supervision for **<u>small object detection</u>** [[PDF](https://ieeexplore.ieee.org/Xplore/home.jsp)]
+
+  Z Fan, C Wang, Q Yu, L Min, **S Wang**, B Wang，_IEEE Transactions on Geoscience and Remote Sensing, 2026_
+
+* OFTNet: Omni feature and texture aware enhancement learning network for
+continuous **<u>remote sensing image super resolution</u>** [[PDF](https://ieeexplore.ieee.org/Xplore/home.jsp)]
+
+  S Chen, **S Wang**, Y Lu, C Li，_IEEE Transactions on Geoscience and Remote Sensing, 2026_
+
+
 * OFTNet: Omni feature and texture aware enhancement learning network for
 continuous **<u>remote sensing image super resolution</u>** [[PDF](https://ieeexplore.ieee.org/Xplore/home.jsp)]
 

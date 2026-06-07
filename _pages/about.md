@@ -16,6 +16,7 @@ I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](h
 
 🔥 News
 ======
+- *2026.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. Congratulations to Ziman.
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. Congratulations to Shuang Chen.
 - *2026.04*: &nbsp;🎉🎉 ICME 2026 Grand Challenge Industrial Defect Analysis - Track 1 Cross-Scenario Defect Detection 3rd Place.
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition. 
