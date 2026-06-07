@@ -18,7 +18,7 @@ author_profile: false
 
 **2026**
 
-* SO-DETR: **<u>Small Object Detection</u>** Transformer via State Space Duality Encoder and Multi-Group Rank Supervision for **<u>small object detection</u>** [[PDF](https://ieeexplore.ieee.org/Xplore/home.jsp)]
+* SO-DETR: Small Object Detection Transformer via State Space Duality Encoder and Multi-Group Rank Supervision for **<u>small object detection</u>** [[PDF](https://ieeexplore.ieee.org/Xplore/home.jsp)]
 
   Z Fan, C Wang, Q Yu, L Min, **S Wang**, B Wang，_IEEE Transactions on Geoscience and Remote Sensing, 2026_
 

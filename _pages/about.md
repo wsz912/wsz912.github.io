@@ -10,7 +10,7 @@ redirect_from:
 I am a lecturer (HENU-100 Talents Program) at Henan University.
 Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Graduate School, working closely with Tenured Associate Professor   [Wei Gao](https://gaowei262.github.io/). I received my Ph.D. degree from Beijing Institute of Technology, under the supervision of Professor [Yao Lu](https://www.smbu.edu.cn/info/5721/77061.htm). My current research interests include light field image super-resolution, depth estimation and 3DGS. 
 
-I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](https://www.tfzhou.com/) (Beijing Institute of Technology). I am also happy to cooperate with excellent junior fellow Wang Xia, Ziman Fan, et al..
+I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](https://www.tfzhou.com/) (Beijing Institute of Technology). I am also happy to cooperate with excellent junior fellow [Wang Xia](https://scholar.google.com/citations?user=JoYMbL0AAAAJ&hl=zh-CN), [Ziman Fan](https://scholar.google.com/citations?user=A6lGtjQAAAAJ&hl=zh-CN), et al..
 
 <strong style="color: red; text-decoration: underline;">【招生】2026级硕士研究生（控制科学与工程学硕/控制工程专硕/人工智能专硕）已确定2人，9月份双选前如还有名额我会说明，感谢各位同学关注！</strong>
 
