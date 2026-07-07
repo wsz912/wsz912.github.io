@@ -18,6 +18,10 @@ author_profile: false
 
 **2026**
 
+* Hierarchical State Space Model for Semantic Oriented **<u>Remote Sensing Image Super-Resolution</u>**  [[PDF](https://ieeexplore.ieee.org/Xplore/home.jsp)]
+
+  J Hao, Y Lu, **S Wang**, T Zhao, B Wang，_IEEE Transactions on Geoscience and Remote Sensing, 2026_
+
 * SO-DETR: **<u>Small Object Detection</u>** Transformer via State Space Duality Encoder and Multi-Group Rank Supervision  [[PDF](https://ieeexplore.ieee.org/Xplore/home.jsp)]
 
   Z Fan, C Wang, Q Yu, L Min, **S Wang**, B Wang，_IEEE Transactions on Geoscience and Remote Sensing, 2026_
