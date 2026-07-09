@@ -14,8 +14,9 @@ I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](h
 
 <strong style="color: red; text-decoration: underline;">【招生】2026级硕士研究生（控制科学与工程学硕/控制工程专硕/人工智能专硕）已确定2人，9月份双选前如还有名额我会说明，感谢各位同学关注！</strong>
 
-🔥 News
+🔥 News 
 ======
+(2026：1 IEEE TIP, 3 IEEE TGRS, 2 PR, 1 ESWA, 3 ICASSP)
 - *2026.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. 
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. Congratulations to Ziman.
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. Congratulations to Shuang Chen.
@@ -68,7 +69,7 @@ I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](h
 - **Regular reviewer for journals**:<br>
 IEEE TPAMI/TIP/TMM/TCSVT/TNNLS/TGRS/TMI/TITS/TAI/TII/ <br>TSMCA/TDSC/JSTARS/TETCI/JBHI/MM/SPL/GRSL, <br>Information Fusion, Pattern Recognition, Neurocomputing, <br> Neural Network, Computer Vision and Image Understanding, 
 <br> Machine Intelligence Research, etc.
-- **Regular reviewer for conferences**: <br>AAAI'23-26, ICME'24-26, ICASSP'26, ACM MM'24-26, PRCV'23-26, ICIG'25 etc.
+- **Regular reviewer for conferences**: <br>AAAI'23-27, ICME'24-26, ICASSP'26, ACM MM'24-26, PRCV'23-26, ICIG'25-26 etc.
 - **Membership**: IEEE/CSIG/CAAI Member
 
 🎇 Awards
