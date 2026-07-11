@@ -16,6 +16,7 @@ I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](h
 
 🔥 News 
 ======
+- *2026.07*: &nbsp;🎉🎉 One paper is accepted by PRCV 2026. Congratulations to Jingxing.
 - *2026.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. 
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. Congratulations to Ziman.
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. Congratulations to Shuang Chen.
