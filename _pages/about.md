@@ -81,7 +81,9 @@ Efficiency （CVPR 2024 workshop）1st Place 🥇
 
 🚀 Vision Computing Group (VCG)
 ------
+- **Research Fellow**s
 
+     <u>Xiaozhen Chen</u> (2026-now) *Computer Vision and Image Processing* 
 - **Master Students**
    
    **2025**
