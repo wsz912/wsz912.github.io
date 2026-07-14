@@ -81,7 +81,7 @@ Efficiency （CVPR 2024 workshop）1st Place 🥇
 
 🚀 Vision Computing Group (VCG)
 ------
-- **Research Fellow**s
+- **Research Fellows**
 
      <u>Xiaozhen Chen</u> (2026-now) *Computer Vision and Image Processing* 
 - **Master Students**
@@ -111,6 +111,15 @@ Fundus Images Enhancement*
   <u>Yiyi Wang</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
 
   <u>Xucheng Du</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
+
+- **Undergraduate Research Orientation** 
+
+  <u>Ke Xu</u> (Henan University, 2026-now) *3DGS super-resolution*
+
+  <u>Jinghan Tian</u> (Henan University, 2026-now) *3DGS super-resolution*
+
+  <u>Jiaxuan Li</u> (Henan University, 2026-now) *3DGS super-resolution*
+
 
 📽️ Alumni
 ------
