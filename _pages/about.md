@@ -120,6 +120,13 @@ Fundus Images Enhancement*
 
   <u>Jiaxuan Li</u> (Henan University, 2026-now) *3DGS super-resolution*
 
+  <u>Chenshuo Xu</u> (Henan University, 2026-now) *3DGS Quality Assessment*
+
+  <u>Jinyao Ma</u> (Henan University, 2026-now) *3DGS Quality Assessment*
+
+  <u>Yujie Wang</u> (Henan University, 2026-now) *3DGS Quality Assessment*
+
+
 
 📽️ Alumni
 ------
