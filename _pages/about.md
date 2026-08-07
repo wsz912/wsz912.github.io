@@ -16,6 +16,7 @@ I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](h
 
 🔥 News 
 ======
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2026 Workshop (Mulsemedia 2026). Congratulations to Kai Cui.
 - *2026.07*: &nbsp;🎉🎉 One paper is accepted by PRCV 2026. Congratulations to Jingxing.
 - *2026.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. 
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. Congratulations to Ziman.
@@ -88,7 +89,7 @@ Efficiency （CVPR 2024 workshop）1st Place 🥇
    
    **2025**
 
-   <u>Kai Cui</u> (Henan University, 2025-now) *Remote Sensing Image Super-Resolution*
+   <u>Kai Cui</u> (Henan University, 2025-now) *Remote Sensing Image Super-Resolution* (ACM MM 2026 Workshop)
 
    <u>Hongxin Zhang</u> (Henan University, 2025-now, Co-advise with Dr. Lvchen Cao) *Retinal
 Fundus Images Enhancement*
