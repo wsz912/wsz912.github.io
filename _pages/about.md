@@ -89,7 +89,7 @@ Efficiency （CVPR 2024 workshop）1st Place 🥇
    
    **2025**
 
-   <u>Kai Cui</u> (Henan University, 2025-now) *Remote Sensing Image Super-Resolution* (ACM MM 2026 Workshop)
+   <u>Kai Cui</u> (Henan University, 2025-now) *Remote Sensing Image Super-Resolution* (ACMMM2026W*1)
 
    <u>Hongxin Zhang</u> (Henan University, 2025-now, Co-advise with Dr. Lvchen Cao) *Retinal
 Fundus Images Enhancement*
