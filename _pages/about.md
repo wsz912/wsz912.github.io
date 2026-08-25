@@ -16,7 +16,9 @@ I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](h
 
 🔥 News 
 ======
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing. Congratulations to Shaochen.
 - *2026.08*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2026 Workshop (Mulsemedia 2026). Congratulations to Kai Cui.
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by KBS. Congratulations to Yafei.
 - *2026.07*: &nbsp;🎉🎉 One paper is accepted by PRCV 2026. Congratulations to Jingxing.
 - *2026.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. 
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. Congratulations to Ziman.
@@ -71,7 +73,7 @@ I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](h
 IEEE TPAMI/TIP/TMM/TCSVT/TNNLS/TGRS/TMI/TITS/TAI/TII/ <br>TSMCA/TDSC/JSTARS/TETCI/JBHI/MM/SPL/GRSL, <br>Information Fusion, Pattern Recognition, Neurocomputing, <br> Neural Network, Computer Vision and Image Understanding, 
 <br> Machine Intelligence Research, etc.
 - **Regular reviewer for conferences**: <br>AAAI'23-27, ICME'24-26, ICASSP'26, ACM MM'24-26, PRCV'23-26, ICIG'25-26 etc.
-- **Membership**: IEEE/CSIG/CAAI Member
+- **Membership**: IEEE/ACM/CSIG/CAAI Member
 
 🎇 Awards
 ------
@@ -136,6 +138,12 @@ Fundus Images Enhancement*
 👨‍🏫  Teaching Experience
 ------
 * **Instructor**<br>
+
+    *Fundamentals of Robotics*, Autumn 2026, Henan University
+
+    *Introduction to Artificial Intelligence and Robotics*, Autumn 2026, Henan University
+
+    *Embodied Intelligence for Robotics*, Autumn 2026, Henan University
 
     *Computer Vision Open-Source Library Applications*, Spring 2026, Henan University
 
