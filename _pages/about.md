@@ -107,8 +107,6 @@ Fundus Images Enhancement*
 - **Undergraduate Students** 
 
   <u>Xiaochen Li</u> (Henan University, 2025-now) *Remote Sensing Image Super-Resolution*
-  
-   <u>Shuojie Zhu</u> (Henan Normal University, 2026-now) *Remote Sensing Image Super-Resolution*
 
   <u>Shaohui Liang</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
 
@@ -134,7 +132,8 @@ Fundus Images Enhancement*
 
 📽️ Alumni
 ------
-- TBC
+-    <u>Shuojie Zhu</u> (Henan Normal University, 2026-now) (*Direct Ph.D. Student, Jointly Supervised by Xidian University and Peng Cheng Laboratory)*
+
 
 👨‍🏫  Teaching Experience
 ------
