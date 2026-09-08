@@ -101,7 +101,7 @@ Fundus Images Enhancement*
 
    <u>Mengru Chen</u> (Henan University, 2026-now) *3DGS Quality Assessment*
 
-   <u>Wenbo Zhang</u> (Henan University, 2026-now) *3DGS Super-Resolution*
+   <u>Wenbo Zhang</u> (Henan University, 2026-now) *Light Field Image Super-Resolution*
 
 
 - **Undergraduate Students** 
@@ -132,7 +132,7 @@ Fundus Images Enhancement*
 
 📽️ Alumni
 ------
--    <u>Shuojie Zhu</u> (Undergraduate Student, Henan Normal University, 2026-now) (*Direct-Entry Ph.D. Student, Xidian University, Joint Training with Peng Cheng Laboratory)*
+-    <u>Shuojie Zhu</u> (Undergraduate Student, Henan Normal University, 2026.01-2026.09) (*Direct-Entry Ph.D. Student, Xidian University, Joint Training with Peng Cheng Laboratory)*
 
 
 👨‍🏫  Teaching Experience
