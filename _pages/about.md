@@ -132,7 +132,7 @@ Fundus Images Enhancement*
 
 📽️ Alumni
 ------
--    <u>Shuojie Zhu</u> (Henan Normal University, 2026-now) (*Direct Ph.D. Student, Jointly Supervised by Xidian University and Peng Cheng Laboratory)*
+-    <u>Shuojie Zhu</u> (Undergraduate Student, Henan Normal University, 2026-now) (*Direct Ph.D. Student, Jointly Supervised by Xidian University and Peng Cheng Laboratory)*
 
 
 👨‍🏫  Teaching Experience
