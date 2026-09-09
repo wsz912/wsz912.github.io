@@ -12,7 +12,7 @@ Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Gra
 
 I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](https://www.tfzhou.com/) (Beijing Institute of Technology). I am also happy to cooperate with excellent junior fellow [Wang Xia](https://scholar.google.com/citations?user=JoYMbL0AAAAJ&hl=zh-CN), [Ziman Fan](https://scholar.google.com/citations?user=A6lGtjQAAAAJ&hl=zh-CN), et al..
 
-<strong style="color: red; text-decoration: underline;">【招生】2026级硕士研究生（控制科学与工程学硕/控制工程专硕/人工智能专硕）已确定3人，目前没有名额，感谢各位同学信任与关注！</strong>
+<strong style="color: red; text-decoration: underline;">【招生】2026级硕士研究生（控制科学与工程学硕/控制工程专硕/人工智能专硕）已招满，目前没有名额，感谢各位同学信任与关注！</strong>
 
 🔥 News 
 ======
