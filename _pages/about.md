@@ -12,11 +12,11 @@ Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Gra
 
 I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](https://www.tfzhou.com/) (Beijing Institute of Technology). I am also happy to cooperate with excellent junior fellow [Wang Xia](https://scholar.google.com/citations?user=JoYMbL0AAAAJ&hl=zh-CN), [Ziman Fan](https://scholar.google.com/citations?user=A6lGtjQAAAAJ&hl=zh-CN), et al..
 
-<strong style="color: red; text-decoration: underline;">【招生】2026级硕士研究生（控制科学与工程学硕/控制工程专硕/人工智能专硕）已确定2人，还有1个名额，欢迎各位同学积极联络！</strong>
+<strong style="color: red; text-decoration: underline;">【招生】2026级硕士研究生（控制科学与工程学硕/控制工程专硕/人工智能专硕）已确定3人，目前没有名额，感谢各位同学信任与关注！</strong>
 
 🔥 News 
 ======
-- *2026.09*: &nbsp;🎂🎂 Happy the 3rd birthday to Tutu!</li>
+- *2026.09*: &nbsp;🎂🎂 Happy the 3rd birthday to Tutu!
 - *2026.08*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing. Congratulations to Shaochen.
 - *2026.08*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2026 Workshop (Mulsemedia 2026). Congratulations to Kai Cui.
 - *2026.08*: &nbsp;🎉🎉 One paper is accepted by KBS. Congratulations to Yafei.
@@ -103,6 +103,7 @@ Fundus Images Enhancement*
 
    <u>Wenbo Zhang</u> (Henan University, 2026-now) *Light Field Image Super-Resolution*
 
+   <u>Jiayi Luo</u> (Henan University, 2026-now) *Image Super-Resolution*
 
 - **Undergraduate Students** 
 
