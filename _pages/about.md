@@ -16,6 +16,7 @@ I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](h
 
 🔥 News 
 ======
+- *2026.09*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition.
 - *2026.09*: &nbsp;🎂🎂 Happy the 3rd birthday to Tutu!
 - *2026.08*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing. Congratulations to Shaochen.
 - *2026.08*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2026 Workshop (Mulsemedia 2026). Congratulations to Kai Cui.
