@@ -22,47 +22,47 @@ redirect_from:
   <section class="about-section">
     <h2><span class="section-icon" aria-hidden="true">🔥</span> News</h2>
     <ul class="news-list">
-      <li><time datetime="2026-10">2026.10</time><span>One paper was accepted by <em>IEEE Transactions on Multimedia</em>. Congratulations to Junhong.</span></li>
-      <li><time datetime="2026-09">2026.09</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>. Congratulations to Chengxi.</span></li>
-      <li><time datetime="2026-09">2026.09</time><span>One paper was accepted by <em>Pattern Recognition</em>.</span></li>
-      <li class="news-birthday"><time datetime="2026-09">2026.09</time><span>Happy third birthday to Tutu!</span></li>
-      <li><time datetime="2026-08">2026.08</time><span>One paper was accepted by <em>Applied Soft Computing</em>. Congratulations to Shaochen.</span></li>
-      <li><time datetime="2026-08">2026.08</time><span>One paper was accepted by the ACM MM 2026 Workshop (Mulsemedia 2026). Congratulations to Kai Cui.</span></li>
-      <li><time datetime="2026-08">2026.08</time><span>One paper was accepted by <em>Knowledge-Based Systems</em>. Congratulations to Yafei.</span></li>
-      <li><time datetime="2026-07">2026.07</time><span>One paper was accepted by PRCV 2026. Congratulations to Jingxing.</span></li>
-      <li><time datetime="2026-07">2026.07</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>.</span></li>
-      <li><time datetime="2026-06">2026.06</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>. Congratulations to Ziman.</span></li>
-      <li><time datetime="2026-04">2026.04</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>. Congratulations to Shuang Chen.</span></li>
-      <li><time datetime="2026-04">2026.04</time><span>Third place in Track 1, Cross-Scenario Defect Detection, at the ICME 2026 Grand Challenge on Industrial Defect Analysis.</span></li>
-      <li><time datetime="2026-03">2026.03</time><span>One paper was accepted by <em>Pattern Recognition</em>.</span></li>
-      <li><time datetime="2026-03">2026.03</time><span>One paper was accepted by <em>IEEE Transactions on Image Processing</em>.</span></li>
-      <li><time datetime="2026-02">2026.02</time><span>One paper was accepted by <em>Pattern Recognition</em>. Congratulations to Wang Xia.</span></li>
-      <li><time datetime="2026-01">2026.01</time><span>One paper was accepted by <em>Expert Systems with Applications</em>.</span></li>
-      <li><time datetime="2026-01">2026.01</time><span>Three papers were accepted by ICASSP 2026. Congratulations to Wang Xia, Yuhao, and Yue Yan.</span></li>
+      <li><time datetime="2026-10">2026.10</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>IEEE Transactions on Multimedia</em>. Congratulations to Junhong.</span></li>
+      <li><time datetime="2026-09">2026.09</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>. Congratulations to Chengxi.</span></li>
+      <li><time datetime="2026-09">2026.09</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>Pattern Recognition</em>.</span></li>
+      <li class="news-birthday"><time datetime="2026-09">2026.09</time><span class="news-icon" aria-hidden="true">🎂🎂</span><span>Happy third birthday to Tutu!</span></li>
+      <li><time datetime="2026-08">2026.08</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>Applied Soft Computing</em>. Congratulations to Shaochen.</span></li>
+      <li><time datetime="2026-08">2026.08</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by the ACM MM 2026 Workshop (Mulsemedia 2026). Congratulations to Kai Cui.</span></li>
+      <li><time datetime="2026-08">2026.08</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>Knowledge-Based Systems</em>. Congratulations to Yafei.</span></li>
+      <li><time datetime="2026-07">2026.07</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by PRCV 2026. Congratulations to Jingxing.</span></li>
+      <li><time datetime="2026-07">2026.07</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>.</span></li>
+      <li><time datetime="2026-06">2026.06</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>. Congratulations to Ziman.</span></li>
+      <li><time datetime="2026-04">2026.04</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>. Congratulations to Shuang Chen.</span></li>
+      <li><time datetime="2026-04">2026.04</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>Third place in Track 1, Cross-Scenario Defect Detection, at the ICME 2026 Grand Challenge on Industrial Defect Analysis.</span></li>
+      <li><time datetime="2026-03">2026.03</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>Pattern Recognition</em>.</span></li>
+      <li><time datetime="2026-03">2026.03</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>IEEE Transactions on Image Processing</em>.</span></li>
+      <li><time datetime="2026-02">2026.02</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>Pattern Recognition</em>. Congratulations to Wang Xia.</span></li>
+      <li><time datetime="2026-01">2026.01</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>Expert Systems with Applications</em>.</span></li>
+      <li><time datetime="2026-01">2026.01</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>Three papers were accepted by ICASSP 2026. Congratulations to Wang Xia, Yuhao, and Yue Yan.</span></li>
     </ul>
 
     <details class="earlier-news">
       <summary>Earlier news (2024–2025)</summary>
       <ul class="news-list">
-        <li class="news-birthday"><time datetime="2025-09">2025.09</time><span>Happy second birthday to Tutu!</span></li>
-        <li><time datetime="2025-08">2025.08</time><span>One paper was accepted by <em>Engineering Applications of Artificial Intelligence</em>.</span></li>
-        <li><time datetime="2025-04">2025.04</time><span>One paper was accepted by <em>CAAI Artificial Intelligence Research</em>.</span></li>
-        <li><time datetime="2025-03">2025.03</time><span>One paper was accepted by ICME 2025.</span></li>
-        <li><time datetime="2025-02">2025.02</time><span>One paper was accepted by <em>Knowledge-Based Systems</em>.</span></li>
-        <li><time datetime="2024-12">2024.12</time><span>One paper was accepted by <em>IEEE Transactions on Multimedia</em>.</span></li>
-        <li><time datetime="2024-12">2024.12</time><span>One paper was accepted by ICASSP.</span></li>
-        <li><time datetime="2024-11">2024.11</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>.</span></li>
-        <li class="news-birthday"><time datetime="2024-09">2024.09</time><span>Happy first birthday to Tutu!</span></li>
-        <li><time datetime="2024-08">2024.08</time><span>One paper was accepted by <em>The Visual Computer</em>.</span></li>
-        <li><time datetime="2024-08">2024.08</time><span>One paper was accepted by <em>IEEE Signal Processing Letters</em>.</span></li>
-        <li><time datetime="2024-08">2024.08</time><span>One paper was accepted by <em>IEEE Transactions on Multimedia</em>.</span></li>
-        <li><time datetime="2024-07">2024.07</time><span>One paper was accepted by <em>Remote Sensing</em>.</span></li>
-        <li><time datetime="2024-06">2024.06</time><span>One paper was accepted by PRCV 2024.</span></li>
-        <li><time datetime="2024-03">2024.03</time><span>First place in Track 2, Fidelity &amp; Efficiency, at the NTIRE 2024 Light Field Image Super-Resolution Challenge (CVPR 2024 Workshop).</span></li>
-        <li><time datetime="2024-03">2024.03</time><span>Second place in Track 1, Fidelity Only, at the NTIRE 2024 Light Field Image Super-Resolution Challenge (CVPR 2024 Workshop).</span></li>
-        <li><time datetime="2024-03">2024.03</time><span>Eighth place in Track 1, Image, at the NTIRE 2024 Quality Assessment for AI-Generated Content Challenge (CVPR 2024 Workshop).</span></li>
-        <li><time datetime="2024-03">2024.03</time><span>Three papers were accepted by ICME 2024.</span></li>
-        <li><time datetime="2024-01">2024.01</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>.</span></li>
+        <li class="news-birthday"><time datetime="2025-09">2025.09</time><span class="news-icon" aria-hidden="true">🎂🎂</span><span>Happy second birthday to Tutu!</span></li>
+        <li><time datetime="2025-08">2025.08</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>Engineering Applications of Artificial Intelligence</em>.</span></li>
+        <li><time datetime="2025-04">2025.04</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>CAAI Artificial Intelligence Research</em>.</span></li>
+        <li><time datetime="2025-03">2025.03</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by ICME 2025.</span></li>
+        <li><time datetime="2025-02">2025.02</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>Knowledge-Based Systems</em>.</span></li>
+        <li><time datetime="2024-12">2024.12</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>IEEE Transactions on Multimedia</em>.</span></li>
+        <li><time datetime="2024-12">2024.12</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by ICASSP.</span></li>
+        <li><time datetime="2024-11">2024.11</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>.</span></li>
+        <li class="news-birthday"><time datetime="2024-09">2024.09</time><span class="news-icon" aria-hidden="true">🎂🎂</span><span>Happy first birthday to Tutu!</span></li>
+        <li><time datetime="2024-08">2024.08</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>The Visual Computer</em>.</span></li>
+        <li><time datetime="2024-08">2024.08</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>IEEE Signal Processing Letters</em>.</span></li>
+        <li><time datetime="2024-08">2024.08</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>IEEE Transactions on Multimedia</em>.</span></li>
+        <li><time datetime="2024-07">2024.07</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>Remote Sensing</em>.</span></li>
+        <li><time datetime="2024-06">2024.06</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by PRCV 2024.</span></li>
+        <li><time datetime="2024-03">2024.03</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>First place in Track 2, Fidelity &amp; Efficiency, at the NTIRE 2024 Light Field Image Super-Resolution Challenge (CVPR 2024 Workshop).</span></li>
+        <li><time datetime="2024-03">2024.03</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>Second place in Track 1, Fidelity Only, at the NTIRE 2024 Light Field Image Super-Resolution Challenge (CVPR 2024 Workshop).</span></li>
+        <li><time datetime="2024-03">2024.03</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>Eighth place in Track 1, Image, at the NTIRE 2024 Quality Assessment for AI-Generated Content Challenge (CVPR 2024 Workshop).</span></li>
+        <li><time datetime="2024-03">2024.03</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>Three papers were accepted by ICME 2024.</span></li>
+        <li><time datetime="2024-01">2024.01</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>.</span></li>
       </ul>
     </details>
   </section>
