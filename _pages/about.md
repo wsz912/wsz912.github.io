@@ -16,6 +16,7 @@ I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](h
 
 🔥 News 
 ======
+- *2026.10*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM. Congratulations to Junhong.
 - *2026.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. Congratulations to Chengxi.
 - *2026.09*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition.
 - *2026.09*: &nbsp;🎂🎂 Happy the 3rd birthday to Tutu!
