@@ -1,16 +1,21 @@
 ---
 layout: archive
-title: "实验室活动"
+title: "Group Photos"
 permalink: /portfolio/
-author_profile: False
+author_profile: false
 ---
 
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
-
+{% assign photos = site.portfolio | sort: "date" | reverse %}
+<div class="photo-wall" role="list">
+  {% for photo in photos %}
+    <figure class="photo-wall__item" role="listitem">
+      <a class="photo-wall__link" href="{{ photo.image | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ photo.image | relative_url }}" alt="{{ photo.alt | default: photo.title | escape }}" loading="lazy">
+      </a>
+      <figcaption class="photo-wall__caption">
+        <span class="photo-wall__title">{{ photo.title }}</span>
+        {% if photo.caption %}<span class="photo-wall__description">{{ photo.caption }}</span>{% endif %}
+      </figcaption>
+    </figure>
+  {% endfor %}
+</div>

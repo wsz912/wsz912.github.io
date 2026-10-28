@@ -1,170 +1,171 @@
 ---
 permalink: /
-title: "👨‍ About Me"
+title: "About Me"
 excerpt: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-I am a lecturer (HENU-100 Talents Program) at Henan University.
-Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Graduate School, working closely with Tenured Associate Professor   [Wei Gao](https://gaowei262.github.io/). I received my Ph.D. degree from Beijing Institute of Technology, under the supervision of Professor [Yao Lu](https://www.smbu.edu.cn/info/5721/77061.htm). My current research interests include light field image super-resolution, depth estimation and 3DGS. 
 
-I am lucky to have opportunities to work closely with Professor [Tianfei Zhou](https://www.tfzhou.com/) (Beijing Institute of Technology). I am also happy to cooperate with excellent junior fellow [Wang Xia](https://scholar.google.com/citations?user=JoYMbL0AAAAJ&hl=zh-CN), [Ziman Fan](https://scholar.google.com/citations?user=A6lGtjQAAAAJ&hl=zh-CN), et al..
+<div class="about-page">
+  <div class="about-intro">
+    <p>I am a lecturer in the HENU-100 Talents Program at Henan University. Before joining Henan University, I was a postdoctoral researcher at Peking University Shenzhen Graduate School, where I worked closely with Associate Professor <a href="https://gaowei262.github.io/">Wei Gao</a>. I received my Ph.D. degree from Beijing Institute of Technology under the supervision of Professor <a href="https://www.smbu.edu.cn/info/5721/77061.htm">Yao Lu</a>.</p>
+    <p>My research interests include light field image super-resolution, depth estimation, and 3D Gaussian Splatting (3DGS). I have also had the opportunity to work closely with Professor <a href="https://www.tfzhou.com/">Tianfei Zhou</a> at Beijing Institute of Technology and to collaborate with <a href="https://scholar.google.com/citations?user=JoYMbL0AAAAJ&amp;hl=zh-CN">Wang Xia</a>, <a href="https://scholar.google.com/citations?user=A6lGtjQAAAAJ&amp;hl=zh-CN">Ziman Fan</a>, and other excellent researchers.</p>
+  </div>
 
-<strong style="color: red; text-decoration: underline;">【招生】2026级硕士研究生（控制科学与工程学硕/控制工程专硕/人工智能专硕）已招满，目前没有名额，感谢各位同学信任与关注！</strong>
+  <aside class="recruitment-notice" aria-label="招生信息">
+    <strong>招生信息</strong>
+    <span>2026级硕士研究生（控制科学与工程学硕、控制工程专硕、人工智能专硕）已招满，目前暂无名额。感谢各位同学的信任与关注！</span>
+  </aside>
 
-🔥 News 
-======
-- *2026.10*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM. Congratulations to Junhong.
-- *2026.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. Congratulations to Chengxi.
-- *2026.09*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition.
-- *2026.09*: &nbsp;🎂🎂 Happy the 3rd birthday to Tutu!
-- *2026.08*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing. Congratulations to Shaochen.
-- *2026.08*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2026 Workshop (Mulsemedia 2026). Congratulations to Kai Cui.
-- *2026.08*: &nbsp;🎉🎉 One paper is accepted by KBS. Congratulations to Yafei.
-- *2026.07*: &nbsp;🎉🎉 One paper is accepted by PRCV 2026. Congratulations to Jingxing.
-- *2026.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. 
-- *2026.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. Congratulations to Ziman.
-- *2026.04*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. Congratulations to Shuang Chen.
-- *2026.04*: &nbsp;🎉🎉 ICME 2026 Grand Challenge Industrial Defect Analysis - Track 1 Cross-Scenario Defect Detection 3rd Place.
-- *2026.03*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition. 
-- *2026.03*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP. 
-- *2026.02*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition. Congratulations to Wang Xia.
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications.
-- *2026.01*: &nbsp;🎉🎉 Three papers are accepted by ICASSP 2026! Congratulations to Wang Xia, Yuhao, Yue Yan. 
-<details>
-<summary><strong>Earlier News before 2026</strong></summary>
+  <section class="about-section">
+    <h2>News</h2>
+    <ul class="news-list">
+      <li><time datetime="2026-10">2026.10</time><span>One paper was accepted by <em>IEEE Transactions on Multimedia</em>. Congratulations to Junhong.</span></li>
+      <li><time datetime="2026-09">2026.09</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>. Congratulations to Chengxi.</span></li>
+      <li><time datetime="2026-09">2026.09</time><span>One paper was accepted by <em>Pattern Recognition</em>.</span></li>
+      <li><time datetime="2026-09">2026.09</time><span>Happy third birthday to Tutu!</span></li>
+      <li><time datetime="2026-08">2026.08</time><span>One paper was accepted by <em>Applied Soft Computing</em>. Congratulations to Shaochen.</span></li>
+      <li><time datetime="2026-08">2026.08</time><span>One paper was accepted by the ACM MM 2026 Workshop (Mulsemedia 2026). Congratulations to Kai Cui.</span></li>
+      <li><time datetime="2026-08">2026.08</time><span>One paper was accepted by <em>Knowledge-Based Systems</em>. Congratulations to Yafei.</span></li>
+      <li><time datetime="2026-07">2026.07</time><span>One paper was accepted by PRCV 2026. Congratulations to Jingxing.</span></li>
+      <li><time datetime="2026-07">2026.07</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>.</span></li>
+      <li><time datetime="2026-06">2026.06</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>. Congratulations to Ziman.</span></li>
+      <li><time datetime="2026-04">2026.04</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>. Congratulations to Shuang Chen.</span></li>
+      <li><time datetime="2026-04">2026.04</time><span>Third place in Track 1, Cross-Scenario Defect Detection, at the ICME 2026 Grand Challenge on Industrial Defect Analysis.</span></li>
+      <li><time datetime="2026-03">2026.03</time><span>One paper was accepted by <em>Pattern Recognition</em>.</span></li>
+      <li><time datetime="2026-03">2026.03</time><span>One paper was accepted by <em>IEEE Transactions on Image Processing</em>.</span></li>
+      <li><time datetime="2026-02">2026.02</time><span>One paper was accepted by <em>Pattern Recognition</em>. Congratulations to Wang Xia.</span></li>
+      <li><time datetime="2026-01">2026.01</time><span>One paper was accepted by <em>Expert Systems with Applications</em>.</span></li>
+      <li><time datetime="2026-01">2026.01</time><span>Three papers were accepted by ICASSP 2026. Congratulations to Wang Xia, Yuhao, and Yue Yan.</span></li>
+    </ul>
 
-<ul>
-  <li><em>2025.09:</em> 🎂🎂 Happy the 2nd birthday to Tutu!</li>
-  <li><em>2025.08:</em> 🎉🎉 One paper is accepted by Engineering Applications of Artificial Intelligence!</li>
-  <li><em>2025.04:</em> 🎉🎉 One paper is accepted by CAAI Artificial Intelligence Research!</li>
-  <li><em>2025.03:</em> 🎉🎉 One paper is accepted by ICME 2025!</li>
-  <li><em>2025.02:</em> 🎉🎉 One paper is accepted by Knowledge-Based Systems!</li>
-  <li><em>2024.12:</em> 🎉🎉 One paper is accepted by IEEE TMM!</li>
-  <li><em>2024.12:</em> 🎉🎉 One paper is accepted by ICASSP!</li>
-  <li><em>2024.11:</em> 🎉🎉 One paper is accepted by IEEE TGRS!</li>
-  <li><em>2024.09:</em> 🎂🎂 Happy the 1st birthday to Tutu!</li>
-  <li><em>2024.08:</em> 🎉🎉 One paper is accepted by The Visual Computer!</li>
-  <li><em>2024.08:</em> 🎉🎉 One paper is accepted by IEEE SPL!</li>
-  <li><em>2024.08:</em> 🎉🎉 One paper is accepted by IEEE TMM!</li>
-  <li><em>2024.07:</em> 🎉🎉 One paper is accepted by Remote Sensing!</li>
-  <li><em>2024.06:</em> 🎉🎉 One paper is accepted by PRCV 2024!</li>
-  <li><em>2024.03:</em> 🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 2 Fidelity &amp; Efficiency (CVPR 2024 Workshop) 1st Place</li>
-  <li><em>2024.03:</em> 🎉🎉 NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 1 Fidelity Only (CVPR 2024 Workshop) 2nd Place</li>
-  <li><em>2024.03:</em> 🎉🎉 NTIRE 2024: Quality Assessment for AI-Generated Content - Track 1 Image (CVPR 2024 Workshop) 8th Place</li>
-  <li><em>2024.03:</em> 🎉🎉 Three papers are accepted by ICME 2024!</li>
-  <li><em>2024.01:</em> 🎉🎉 One paper is accepted by IEEE TGRS!</li>
-</ul>
+    <details class="earlier-news">
+      <summary>Earlier news (2024–2025)</summary>
+      <ul class="news-list">
+        <li><time datetime="2025-09">2025.09</time><span>Happy second birthday to Tutu!</span></li>
+        <li><time datetime="2025-08">2025.08</time><span>One paper was accepted by <em>Engineering Applications of Artificial Intelligence</em>.</span></li>
+        <li><time datetime="2025-04">2025.04</time><span>One paper was accepted by <em>CAAI Artificial Intelligence Research</em>.</span></li>
+        <li><time datetime="2025-03">2025.03</time><span>One paper was accepted by ICME 2025.</span></li>
+        <li><time datetime="2025-02">2025.02</time><span>One paper was accepted by <em>Knowledge-Based Systems</em>.</span></li>
+        <li><time datetime="2024-12">2024.12</time><span>One paper was accepted by <em>IEEE Transactions on Multimedia</em>.</span></li>
+        <li><time datetime="2024-12">2024.12</time><span>One paper was accepted by ICASSP.</span></li>
+        <li><time datetime="2024-11">2024.11</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>.</span></li>
+        <li><time datetime="2024-09">2024.09</time><span>Happy first birthday to Tutu!</span></li>
+        <li><time datetime="2024-08">2024.08</time><span>One paper was accepted by <em>The Visual Computer</em>.</span></li>
+        <li><time datetime="2024-08">2024.08</time><span>One paper was accepted by <em>IEEE Signal Processing Letters</em>.</span></li>
+        <li><time datetime="2024-08">2024.08</time><span>One paper was accepted by <em>IEEE Transactions on Multimedia</em>.</span></li>
+        <li><time datetime="2024-07">2024.07</time><span>One paper was accepted by <em>Remote Sensing</em>.</span></li>
+        <li><time datetime="2024-06">2024.06</time><span>One paper was accepted by PRCV 2024.</span></li>
+        <li><time datetime="2024-03">2024.03</time><span>First place in Track 2, Fidelity &amp; Efficiency, at the NTIRE 2024 Light Field Image Super-Resolution Challenge (CVPR 2024 Workshop).</span></li>
+        <li><time datetime="2024-03">2024.03</time><span>Second place in Track 1, Fidelity Only, at the NTIRE 2024 Light Field Image Super-Resolution Challenge (CVPR 2024 Workshop).</span></li>
+        <li><time datetime="2024-03">2024.03</time><span>Eighth place in Track 1, Image, at the NTIRE 2024 Quality Assessment for AI-Generated Content Challenge (CVPR 2024 Workshop).</span></li>
+        <li><time datetime="2024-03">2024.03</time><span>Three papers were accepted by ICME 2024.</span></li>
+        <li><time datetime="2024-01">2024.01</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>.</span></li>
+      </ul>
+    </details>
+  </section>
 
-</details>
+  <section class="about-section">
+    <h2>Academic Service &amp; Professional Activities</h2>
+    <dl class="service-list">
+      <div>
+        <dt>Journal reviewer</dt>
+        <dd>IEEE TPAMI, TIP, TMM, TCSVT, TNNLS, TGRS, TMI, TITS, TAI, TII, TSMC-A, TDSC, JSTARS, TETCI, JBHI, MM, SPL, GRSL; <em>Information Fusion</em>, <em>Pattern Recognition</em>, <em>Neurocomputing</em>, <em>Neural Networks</em>, <em>Computer Vision and Image Understanding</em>, <em>Machine Intelligence Research</em>, and others.</dd>
+      </div>
+      <div>
+        <dt>Conference reviewer</dt>
+        <dd>AAAI 2023–2027, ICME 2024–2026, ICASSP 2026, ACM MM 2024–2026, PRCV 2023–2026, and ICIG 2025–2026.</dd>
+      </div>
+      <div>
+        <dt>Memberships</dt>
+        <dd>IEEE, ACM, CSIG, and CAAI.</dd>
+      </div>
+    </dl>
+  </section>
 
-[//]: # (📖 Selected Publications)
+  <section class="about-section">
+    <h2>Awards</h2>
+    <ul class="award-list">
+      <li><span class="award-rank">1st Place</span><span>NTIRE 2024 Light Field Image Super-Resolution Challenge — Track 2: Fidelity &amp; Efficiency (CVPR 2024 Workshop)</span></li>
+      <li><span class="award-rank">2nd Place</span><span>NTIRE 2024 Light Field Image Super-Resolution Challenge — Track 1: Fidelity Only (CVPR 2024 Workshop)</span></li>
+      <li><span class="award-rank">3rd Place</span><span>ICME 2026 Grand Challenge on Industrial Defect Analysis — Track 1: Cross-Scenario Defect Detection</span></li>
+    </ul>
+  </section>
 
-[//]: # (======)
+  <section class="about-section">
+    <h2>Vision Computing Group (VCG)</h2>
 
-[//]: # ()
-[//]: # (- **[Paper Title Number 1]&#40;http://academicpages.github.io/files/paper1.pdf&#41;**<br>)
+    <div class="people-group">
+      <h3>Research Fellows</h3>
+      <ul class="people-list">
+        <li><span class="person-name">Xiaozhen Chen</span><span><span class="person-meta">2026–present</span> Computer Vision and Image Processing</span></li>
+      </ul>
+    </div>
 
-[//]: # (  *Author&#40;s&#41;*<br>)
+    <div class="people-group">
+      <h3>Master's Students</h3>
+      <ul class="people-list">
+        <li><span class="person-name">Kai Cui</span><span><span class="person-meta">2025–present</span> Remote Sensing Image Super-Resolution · ACM MM 2026 Workshop paper</span></li>
+        <li><span class="person-name">Hongxin Zhang</span><span><span class="person-meta">2025–present</span> Retinal Fundus Image Enhancement · co-advised with Dr. Lvchen Cao</span></li>
+        <li><span class="person-name">Mengru Chen</span><span><span class="person-meta">2026–present</span> 3DGS Quality Assessment</span></li>
+        <li><span class="person-name">Wenbo Zhang</span><span><span class="person-meta">2026–present</span> Light Field Image Super-Resolution</span></li>
+        <li><span class="person-name">Jiayi Luo</span><span><span class="person-meta">2026–present</span> Image Super-Resolution</span></li>
+      </ul>
+    </div>
 
-[//]: # (  **Conference Name**, Year)
+    <div class="people-group">
+      <h3>Undergraduate Students</h3>
+      <ul class="people-list">
+        <li><span class="person-name">Xiaochen Li</span><span><span class="person-meta">2025–present</span> Remote Sensing Image Super-Resolution</span></li>
+        <li><span class="person-name">Shaohui Liang</span><span><span class="person-meta">2026–present</span> Remote Sensing Image Super-Resolution</span></li>
+        <li><span class="person-name">Yiyi Wang</span><span><span class="person-meta">2026–present</span> Remote Sensing Image Super-Resolution</span></li>
+        <li><span class="person-name">Xucheng Du</span><span><span class="person-meta">2026–present</span> Remote Sensing Image Super-Resolution</span></li>
+      </ul>
+    </div>
 
-🧑‍🔬 Academic Services and Social Works
-------
-- **Regular reviewer for journals**:<br>
-IEEE TPAMI/TIP/TMM/TCSVT/TNNLS/TGRS/TMI/TITS/TAI/TII/ <br>TSMCA/TDSC/JSTARS/TETCI/JBHI/MM/SPL/GRSL, <br>Information Fusion, Pattern Recognition, Neurocomputing, <br> Neural Network, Computer Vision and Image Understanding, 
-<br> Machine Intelligence Research, etc.
-- **Regular reviewer for conferences**: <br>AAAI'23-27, ICME'24-26, ICASSP'26, ACM MM'24-26, PRCV'23-26, ICIG'25-26 etc.
-- **Membership**: IEEE/ACM/CSIG/CAAI Member
+    <div class="people-group">
+      <h3>Undergraduate Research Orientation</h3>
+      <ul class="people-list">
+        <li><span class="person-name">Ke Xu</span><span><span class="person-meta">2026–present</span> 3DGS Super-Resolution</span></li>
+        <li><span class="person-name">Jinghan Tian</span><span><span class="person-meta">2026–present</span> 3DGS Super-Resolution</span></li>
+        <li><span class="person-name">Jiaxuan Li</span><span><span class="person-meta">2026–present</span> 3DGS Super-Resolution</span></li>
+        <li><span class="person-name">Chenshuo Xu</span><span><span class="person-meta">2026–present</span> 3DGS Quality Assessment</span></li>
+        <li><span class="person-name">Jinyao Ma</span><span><span class="person-meta">2026–present</span> 3DGS Quality Assessment</span></li>
+        <li><span class="person-name">Yujie Wang</span><span><span class="person-meta">2026–present</span> 3DGS Quality Assessment</span></li>
+      </ul>
+    </div>
+  </section>
 
-🎇 Awards
-------
-- NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 2 Fidelity &
-Efficiency （CVPR 2024 workshop）1st Place 🥇
-- NTIRE 2024: Light Field Image Super-Resolution Challenge - Track 1 Fidelity Only（CVPR2024 workshop） 2nd Place 🥈
-- ICME 2026 Grand Challenge Industrial Defect Analysis - Track 1 Cross-Scenario Defect Detection 3rd Place 🥉
+  <section class="about-section">
+    <h2>Alumni</h2>
+    <ul class="people-list">
+      <li><span class="person-name">Shuojie Zhu</span><span><span class="person-meta">2026.01–2026.09</span> Undergraduate student, Henan Normal University · Direct-entry Ph.D. student at Xidian University, jointly trained with Peng Cheng Laboratory</span></li>
+    </ul>
+  </section>
 
-🚀 Vision Computing Group (VCG)
-------
-- **Research Fellows**
-
-     <u>Xiaozhen Chen</u> (2026-now) *Computer Vision and Image Processing* 
-- **Master Students**
-   
-   **2025**
-
-   <u>Kai Cui</u> (Henan University, 2025-now) *Remote Sensing Image Super-Resolution* (ACMMM2026W*1)
-
-   <u>Hongxin Zhang</u> (Henan University, 2025-now, Co-advise with Dr. Lvchen Cao) *Retinal
-Fundus Images Enhancement*
-   
-   **2026**   
-
-   <u>Mengru Chen</u> (Henan University, 2026-now) *3DGS Quality Assessment*
-
-   <u>Wenbo Zhang</u> (Henan University, 2026-now) *Light Field Image Super-Resolution*
-
-   <u>Jiayi Luo</u> (Henan University, 2026-now) *Image Super-Resolution*
-
-- **Undergraduate Students** 
-
-  <u>Xiaochen Li</u> (Henan University, 2025-now) *Remote Sensing Image Super-Resolution*
-
-  <u>Shaohui Liang</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
-
-  <u>Yiyi Wang</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
-
-  <u>Xucheng Du</u> (Henan University, 2026-now) *Remote Sensing Image Super-Resolution*
-
-- **Undergraduate Research Orientation** 
-
-  <u>Ke Xu</u> (Henan University, 2026-now) *3DGS super-resolution*
-
-  <u>Jinghan Tian</u> (Henan University, 2026-now) *3DGS super-resolution*
-
-  <u>Jiaxuan Li</u> (Henan University, 2026-now) *3DGS super-resolution*
-
-  <u>Chenshuo Xu</u> (Henan University, 2026-now) *3DGS Quality Assessment*
-
-  <u>Jinyao Ma</u> (Henan University, 2026-now) *3DGS Quality Assessment*
-
-  <u>Yujie Wang</u> (Henan University, 2026-now) *3DGS Quality Assessment*
-
-
-
-📽️ Alumni
-------
--    <u>Shuojie Zhu</u> (Undergraduate Student, Henan Normal University, 2026.01-2026.09) (*Direct-Entry Ph.D. Student, Xidian University, Joint Training with Peng Cheng Laboratory)*
-
-
-👨‍🏫  Teaching Experience
-------
-* **Instructor**<br>
-
-    *Fundamentals of Robotics*, Autumn 2026, Henan University
-
-    *Introduction to Artificial Intelligence and Robotics*, Autumn 2026, Henan University
-
-    *Embodied Intelligence for Robotics*, Autumn 2026, Henan University
-
-    *Computer Vision Open-Source Library Applications*, Spring 2026, Henan University
-
-* **Teaching Assistant**<br>
-
-    *Computational Neuroscience*, 2022.09-2022.10, Beijing Institute of Technology<br>
-    
-    *Computer Graphics and Image Processing*, 2021.03-2021.06, Beijing Institute of Technology<br>
-    
-    *Digital Image Processing*, 2020.10-2021.01, Beijing Institute of Technology<br>
-    
-    *Computer Graphics and Image Processing*, 2020.03-2020.06, Beijing Institute of Technology<br>
-    
-    *Pattern Recognition and Computer Vision*, 2020.03-2020.06, Beijing Institute of Technology<br>
-    
-    *Computer Graphics and Image Processing*, 2019.03-2019.06, Beijing Institute of Technology<br>
-
-
-
-[//]: # (- **[Yao Lu]&#40;https://www.smbu.edu.cn/info/5721/77061.htm&#41;**, Professor, Beijing Institute of Technology)
+  <section class="about-section">
+    <h2>Teaching Experience</h2>
+    <div class="teaching-group">
+      <h3>Instructor</h3>
+      <ul class="course-list">
+        <li><span>Fundamentals of Robotics</span><span>Autumn 2026 · Henan University</span></li>
+        <li><span>Introduction to Artificial Intelligence and Robotics</span><span>Autumn 2026 · Henan University</span></li>
+        <li><span>Embodied Intelligence for Robotics</span><span>Autumn 2026 · Henan University</span></li>
+        <li><span>Computer Vision Open-Source Library Applications</span><span>Spring 2026 · Henan University</span></li>
+      </ul>
+    </div>
+    <div class="teaching-group">
+      <h3>Teaching Assistant</h3>
+      <ul class="course-list">
+        <li><span>Computational Neuroscience</span><span>2022.09–2022.10 · Beijing Institute of Technology</span></li>
+        <li><span>Computer Graphics and Image Processing</span><span>2021.03–2021.06 · Beijing Institute of Technology</span></li>
+        <li><span>Digital Image Processing</span><span>2020.10–2021.01 · Beijing Institute of Technology</span></li>
+        <li><span>Computer Graphics and Image Processing</span><span>2020.03–2020.06 · Beijing Institute of Technology</span></li>
+        <li><span>Pattern Recognition and Computer Vision</span><span>2020.03–2020.06 · Beijing Institute of Technology</span></li>
+        <li><span>Computer Graphics and Image Processing</span><span>2019.03–2019.06 · Beijing Institute of Technology</span></li>
+      </ul>
+    </div>
+  </section>
+</div>
