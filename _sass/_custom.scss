@@ -50,6 +50,12 @@
     border-bottom: 1px solid $border-color;
   }
 
+  .section-icon {
+    display: inline-block;
+    min-width: 1.55em;
+    text-align: center;
+  }
+
   h3 {
     margin: 0 0 0.55em;
     color: $dark-gray;
@@ -68,10 +74,20 @@
 
   .news-list li {
     display: grid;
-    grid-template-columns: 5em minmax(0, 1fr);
-    gap: 0.8em;
+    grid-template-columns: 5em 2.25em minmax(0, 1fr);
+    gap: 0.65em;
     padding: 0.48em 0;
     border-bottom: 1px solid mix(#fff, $border-color, 45%);
+
+    &::before {
+      content: "🎉🎉";
+      line-height: 1.6;
+      white-space: nowrap;
+    }
+
+    &.news-birthday::before {
+      content: "🎂🎂";
+    }
 
     &:last-child {
       border-bottom: 0;

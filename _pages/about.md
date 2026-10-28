@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "👨‍🔬 About Me"
 excerpt: "About Me"
 author_profile: true
 redirect_from:
@@ -20,12 +20,12 @@ redirect_from:
   </aside>
 
   <section class="about-section">
-    <h2>News</h2>
+    <h2><span class="section-icon" aria-hidden="true">🔥</span> News</h2>
     <ul class="news-list">
       <li><time datetime="2026-10">2026.10</time><span>One paper was accepted by <em>IEEE Transactions on Multimedia</em>. Congratulations to Junhong.</span></li>
       <li><time datetime="2026-09">2026.09</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>. Congratulations to Chengxi.</span></li>
       <li><time datetime="2026-09">2026.09</time><span>One paper was accepted by <em>Pattern Recognition</em>.</span></li>
-      <li><time datetime="2026-09">2026.09</time><span>Happy third birthday to Tutu!</span></li>
+      <li class="news-birthday"><time datetime="2026-09">2026.09</time><span>Happy third birthday to Tutu!</span></li>
       <li><time datetime="2026-08">2026.08</time><span>One paper was accepted by <em>Applied Soft Computing</em>. Congratulations to Shaochen.</span></li>
       <li><time datetime="2026-08">2026.08</time><span>One paper was accepted by the ACM MM 2026 Workshop (Mulsemedia 2026). Congratulations to Kai Cui.</span></li>
       <li><time datetime="2026-08">2026.08</time><span>One paper was accepted by <em>Knowledge-Based Systems</em>. Congratulations to Yafei.</span></li>
@@ -44,7 +44,7 @@ redirect_from:
     <details class="earlier-news">
       <summary>Earlier news (2024–2025)</summary>
       <ul class="news-list">
-        <li><time datetime="2025-09">2025.09</time><span>Happy second birthday to Tutu!</span></li>
+        <li class="news-birthday"><time datetime="2025-09">2025.09</time><span>Happy second birthday to Tutu!</span></li>
         <li><time datetime="2025-08">2025.08</time><span>One paper was accepted by <em>Engineering Applications of Artificial Intelligence</em>.</span></li>
         <li><time datetime="2025-04">2025.04</time><span>One paper was accepted by <em>CAAI Artificial Intelligence Research</em>.</span></li>
         <li><time datetime="2025-03">2025.03</time><span>One paper was accepted by ICME 2025.</span></li>
@@ -52,7 +52,7 @@ redirect_from:
         <li><time datetime="2024-12">2024.12</time><span>One paper was accepted by <em>IEEE Transactions on Multimedia</em>.</span></li>
         <li><time datetime="2024-12">2024.12</time><span>One paper was accepted by ICASSP.</span></li>
         <li><time datetime="2024-11">2024.11</time><span>One paper was accepted by <em>IEEE Transactions on Geoscience and Remote Sensing</em>.</span></li>
-        <li><time datetime="2024-09">2024.09</time><span>Happy first birthday to Tutu!</span></li>
+        <li class="news-birthday"><time datetime="2024-09">2024.09</time><span>Happy first birthday to Tutu!</span></li>
         <li><time datetime="2024-08">2024.08</time><span>One paper was accepted by <em>The Visual Computer</em>.</span></li>
         <li><time datetime="2024-08">2024.08</time><span>One paper was accepted by <em>IEEE Signal Processing Letters</em>.</span></li>
         <li><time datetime="2024-08">2024.08</time><span>One paper was accepted by <em>IEEE Transactions on Multimedia</em>.</span></li>
@@ -68,7 +68,7 @@ redirect_from:
   </section>
 
   <section class="about-section">
-    <h2>Academic Service &amp; Professional Activities</h2>
+    <h2><span class="section-icon" aria-hidden="true">🧑‍🔬</span> Academic Service &amp; Professional Activities</h2>
     <dl class="service-list">
       <div>
         <dt>Journal reviewer</dt>
@@ -86,16 +86,16 @@ redirect_from:
   </section>
 
   <section class="about-section">
-    <h2>Awards</h2>
+    <h2><span class="section-icon" aria-hidden="true">🎇</span> Awards</h2>
     <ul class="award-list">
-      <li><span class="award-rank">1st Place</span><span>NTIRE 2024 Light Field Image Super-Resolution Challenge — Track 2: Fidelity &amp; Efficiency (CVPR 2024 Workshop)</span></li>
-      <li><span class="award-rank">2nd Place</span><span>NTIRE 2024 Light Field Image Super-Resolution Challenge — Track 1: Fidelity Only (CVPR 2024 Workshop)</span></li>
-      <li><span class="award-rank">3rd Place</span><span>ICME 2026 Grand Challenge on Industrial Defect Analysis — Track 1: Cross-Scenario Defect Detection</span></li>
+      <li><span class="award-rank"><span aria-hidden="true">🥇</span> 1st Place</span><span>NTIRE 2024 Light Field Image Super-Resolution Challenge — Track 2: Fidelity &amp; Efficiency (CVPR 2024 Workshop)</span></li>
+      <li><span class="award-rank"><span aria-hidden="true">🥈</span> 2nd Place</span><span>NTIRE 2024 Light Field Image Super-Resolution Challenge — Track 1: Fidelity Only (CVPR 2024 Workshop)</span></li>
+      <li><span class="award-rank"><span aria-hidden="true">🥉</span> 3rd Place</span><span>ICME 2026 Grand Challenge on Industrial Defect Analysis — Track 1: Cross-Scenario Defect Detection</span></li>
     </ul>
   </section>
 
   <section class="about-section">
-    <h2>Vision Computing Group (VCG)</h2>
+    <h2><span class="section-icon" aria-hidden="true">🚀</span> Vision Computing Group (VCG)</h2>
 
     <div class="people-group">
       <h3>Research Fellows</h3>
@@ -139,14 +139,14 @@ redirect_from:
   </section>
 
   <section class="about-section">
-    <h2>Alumni</h2>
+    <h2><span class="section-icon" aria-hidden="true">📽️</span> Alumni</h2>
     <ul class="people-list">
       <li><span class="person-name">Shuojie Zhu</span><span><span class="person-meta">2026.01–2026.09</span> Undergraduate student, Henan Normal University · Direct-entry Ph.D. student at Xidian University, jointly trained with Peng Cheng Laboratory</span></li>
     </ul>
   </section>
 
   <section class="about-section">
-    <h2>Teaching Experience</h2>
+    <h2><span class="section-icon" aria-hidden="true">👨‍🏫</span> Teaching Experience</h2>
     <div class="teaching-group">
       <h3>Instructor</h3>
       <ul class="course-list">
