@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: false
 ---
 
-{% assign photos = site.portfolio | sort: "date" | reverse %}
+{% assign photos = site.portfolio | sort: "order" | reverse %}
 <div class="photo-wall" role="list">
   {% for photo in photos %}
     <figure class="photo-wall__item" role="listitem">
