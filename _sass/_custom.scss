@@ -6,6 +6,63 @@
   font-weight: 400;
   line-height: 1.75;
 
+  .about-nav {
+    position: sticky;
+    top: 0;
+    z-index: 15;
+    margin: 0 0 1.8em;
+    padding: 0.45em;
+    background: rgba(#fff, 0.96);
+    border: 1px solid $border-color;
+    border-radius: 7px;
+    box-shadow: 0 3px 14px rgba(#000, 0.06);
+
+    ul {
+      display: flex;
+      gap: 0.25em;
+      margin: 0;
+      padding: 0;
+      overflow-x: auto;
+      list-style: none;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    li {
+      flex: 0 0 auto;
+      margin: 0;
+    }
+
+    a {
+      display: block;
+      padding: 0.45em 0.7em;
+      color: $dark-gray;
+      font-size: 0.88em;
+      font-weight: 400;
+      line-height: 1.35;
+      text-decoration: none;
+      white-space: nowrap;
+      border-radius: 5px;
+      transition: color 0.2s ease, background-color 0.2s ease;
+
+      &:hover,
+      &:focus {
+        color: $darker-gray;
+        background: $lighter-gray;
+        text-decoration: none;
+      }
+    }
+  }
+
+  #about-me,
+  .about-section {
+    scroll-margin-top: 4.75em;
+  }
+
+  .about-section:target h2 {
+    color: $info-color;
+    border-bottom-color: mix(#fff, $info-color, 55%);
+  }
+
   a {
     text-decoration-thickness: 1px;
     text-underline-offset: 0.16em;
@@ -17,6 +74,8 @@
 
     p {
       margin-bottom: 0.85em;
+      text-align: justify;
+      text-justify: inter-word;
     }
   }
 
@@ -218,6 +277,22 @@
   }
 
   @include breakpoint(max-width $small) {
+    .about-intro p {
+      text-align: left;
+    }
+
+    .about-nav {
+      margin-right: -0.35em;
+      margin-left: -0.35em;
+      border-radius: 5px;
+
+      a {
+        padding-right: 0.6em;
+        padding-left: 0.6em;
+        font-size: 0.84em;
+      }
+    }
+
     .recruitment-notice {
       display: block;
 

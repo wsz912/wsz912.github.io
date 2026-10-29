@@ -9,9 +9,21 @@ redirect_from:
 ---
 
 <div class="about-page">
-  <div class="about-intro">
-    <p>I am a lecturer (HENU-100 Talents Program) at Henan University. Before joining Henan University, I was a postdoctoral researcher at Peking University Shenzhen Graduate School, where I worked closely with Associate Professor <a href="https://gaowei262.github.io/">Wei Gao</a>. I received my Ph.D. degree from Beijing Institute of Technology under the supervision of Professor <a href="https://www.smbu.edu.cn/info/5721/77061.htm">Yao Lu</a>.</p>
-    <p>My research interests include light field image super-resolution, depth estimation, and 3D Gaussian Splatting (3DGS). I have also had the opportunity to work closely with Professor <a href="https://www.tfzhou.com/">Tianfei Zhou</a> at Beijing Institute of Technology and to collaborate with <a href="https://scholar.google.com/citations?user=JoYMbL0AAAAJ&amp;hl=zh-CN">Wang Xia</a>, <a href="https://scholar.google.com/citations?user=A6lGtjQAAAAJ&amp;hl=zh-CN">Ziman Fan</a>, and other excellent researchers.</p>
+  <nav class="about-nav" aria-label="About page navigation">
+    <ul>
+      <li><a href="#about-me">About Me</a></li>
+      <li><a href="#news">News</a></li>
+      <li><a href="#academic-service">Academic Service</a></li>
+      <li><a href="#awards">Awards</a></li>
+      <li><a href="#vcg">VCG</a></li>
+      <li><a href="#alumni">Alumni</a></li>
+      <li><a href="#teaching">Teaching</a></li>
+    </ul>
+  </nav>
+
+  <div id="about-me" class="about-intro">
+    <p>I am a lecturer (HENU-100 Talents Program) at Henan University. Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Graduate School, working closely with Tenured Associate Professor <a href="https://gaowei262.github.io/">Wei Gao</a>. I received my Ph.D. degree from Beijing Institute of Technology, under the supervision of Professor <a href="https://www.smbu.edu.cn/info/5721/77061.htm">Yao Lu</a>. My current research interests include light field image super-resolution, depth estimation and 3DGS.</p>
+    <p>I am lucky to have opportunities to work closely with Professor <a href="https://www.tfzhou.com/">Tianfei Zhou</a> (Beijing Institute of Technology). I am also happy to cooperate with excellent junior fellow <a href="https://scholar.google.com/citations?user=JoYMbL0AAAAJ&amp;hl=zh-CN">Wang Xia</a>, <a href="https://scholar.google.com/citations?user=A6lGtjQAAAAJ&amp;hl=zh-CN">Ziman Fan</a>, et al..</p>
   </div>
 
   <aside class="recruitment-notice" aria-label="招生信息">
@@ -19,7 +31,7 @@ redirect_from:
     <span>2026级硕士研究生（控制科学与工程学硕、控制工程专硕、人工智能专硕）已招满，目前暂无名额。感谢各位同学的信任与关注！</span>
   </aside>
 
-  <section class="about-section">
+  <section id="news" class="about-section">
     <h2><span class="section-icon" aria-hidden="true">🔥</span> News</h2>
     <ul class="news-list">
       <li><time datetime="2026-10">2026.10</time><span class="news-icon" aria-hidden="true">🎉🎉</span><span>One paper was accepted by <em>IEEE Transactions on Multimedia</em>. Congratulations to Junhong.</span></li>
@@ -67,7 +79,7 @@ redirect_from:
     </details>
   </section>
 
-  <section class="about-section">
+  <section id="academic-service" class="about-section">
     <h2><span class="section-icon" aria-hidden="true">🧑‍🔬</span> Academic Service &amp; Professional Activities</h2>
     <dl class="service-list">
       <div>
@@ -85,7 +97,7 @@ redirect_from:
     </dl>
   </section>
 
-  <section class="about-section">
+  <section id="awards" class="about-section">
     <h2><span class="section-icon" aria-hidden="true">🎇</span> Awards</h2>
     <ul class="award-list">
       <li><span class="award-rank"><span aria-hidden="true">🥇</span> 1st Place</span><span>NTIRE 2024 Light Field Image Super-Resolution Challenge — Track 2: Fidelity &amp; Efficiency (CVPR 2024 Workshop)</span></li>
@@ -94,7 +106,7 @@ redirect_from:
     </ul>
   </section>
 
-  <section class="about-section">
+  <section id="vcg" class="about-section">
     <h2><span class="section-icon" aria-hidden="true">🚀</span> Vision Computing Group (VCG)</h2>
 
     <div class="people-group">
@@ -138,14 +150,14 @@ redirect_from:
     </div>
   </section>
 
-  <section class="about-section">
+  <section id="alumni" class="about-section">
     <h2><span class="section-icon" aria-hidden="true">📽️</span> Alumni</h2>
     <ul class="people-list">
       <li><span class="person-name">Shuojie Zhu</span><span><span class="person-meta">(Undergraduate Student, Henan Normal University, 2026.01–2026.09)</span> <em>(Direct-Entry Ph.D. Student, Xidian University, Joint Training with Peng Cheng Laboratory)</em></span></li>
     </ul>
   </section>
 
-  <section class="about-section">
+  <section id="teaching" class="about-section">
     <h2><span class="section-icon" aria-hidden="true">👨‍🏫</span> Teaching Experience</h2>
     <div class="teaching-group">
       <h3>Instructor</h3>
