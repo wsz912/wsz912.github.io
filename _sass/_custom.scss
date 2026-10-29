@@ -53,6 +53,10 @@
     }
   }
 
+  .about-nav__title {
+    display: none;
+  }
+
   #about-me,
   .about-section {
     scroll-margin-top: 4.75em;
@@ -61,6 +65,66 @@
   .about-section:target h2 {
     color: $info-color;
     border-bottom-color: mix(#fff, $info-color, 55%);
+  }
+
+  @include breakpoint($large) {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 9.5em;
+    column-gap: 2em;
+    align-items: start;
+
+    > .about-intro,
+    > .recruitment-notice,
+    > .about-section {
+      grid-column: 1;
+    }
+
+    > .about-nav {
+      position: sticky;
+      top: 1.25em;
+      grid-column: 2;
+      grid-row: 1 / span 8;
+      align-self: start;
+      width: 100%;
+      margin: 0;
+      padding: 0.7em;
+
+      ul {
+        display: block;
+        overflow: visible;
+      }
+
+      li {
+        display: block;
+        border-bottom: 1px solid mix(#fff, $border-color, 45%);
+
+        &:last-child {
+          border-bottom: 0;
+        }
+      }
+
+      a {
+        padding: 0.58em 0.5em;
+        line-height: 1.4;
+        white-space: normal;
+      }
+    }
+
+    .about-nav__title {
+      display: block;
+      margin: 0 0 0.4em;
+      padding: 0 0.45em 0.55em;
+      color: $gray;
+      font-size: 0.75em;
+      font-style: italic;
+      line-height: 1.3;
+      border-bottom: 1px solid $border-color;
+    }
+
+    #about-me,
+    .about-section {
+      scroll-margin-top: 1.25em;
+    }
   }
 
   a {
