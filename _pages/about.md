@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="about-page">
   <div class="about-intro">
-    <p>I am a lecturer in the HENU-100 Talents Program at Henan University. Before joining Henan University, I was a postdoctoral researcher at Peking University Shenzhen Graduate School, where I worked closely with Associate Professor <a href="https://gaowei262.github.io/">Wei Gao</a>. I received my Ph.D. degree from Beijing Institute of Technology under the supervision of Professor <a href="https://www.smbu.edu.cn/info/5721/77061.htm">Yao Lu</a>.</p>
+    <p>I am a lecturer (HENU-100 Talents Program) at Henan University. Before joining Henan University, I was a postdoctoral researcher at Peking University Shenzhen Graduate School, where I worked closely with Associate Professor <a href="https://gaowei262.github.io/">Wei Gao</a>. I received my Ph.D. degree from Beijing Institute of Technology under the supervision of Professor <a href="https://www.smbu.edu.cn/info/5721/77061.htm">Yao Lu</a>.</p>
     <p>My research interests include light field image super-resolution, depth estimation, and 3D Gaussian Splatting (3DGS). I have also had the opportunity to work closely with Professor <a href="https://www.tfzhou.com/">Tianfei Zhou</a> at Beijing Institute of Technology and to collaborate with <a href="https://scholar.google.com/citations?user=JoYMbL0AAAAJ&amp;hl=zh-CN">Wang Xia</a>, <a href="https://scholar.google.com/citations?user=A6lGtjQAAAAJ&amp;hl=zh-CN">Ziman Fan</a>, and other excellent researchers.</p>
   </div>
 
@@ -100,40 +100,40 @@ redirect_from:
     <div class="people-group">
       <h3>Research Fellows</h3>
       <ul class="people-list">
-        <li><span class="person-name">Xiaozhen Chen</span><span><span class="person-meta">2026–present</span> Computer Vision and Image Processing</span></li>
+        <li><span class="person-name">Xiaozhen Chen</span><span><span class="person-meta">(2026–now)</span> <em>Computer Vision and Image Processing</em></span></li>
       </ul>
     </div>
 
     <div class="people-group">
       <h3>Master's Students</h3>
       <ul class="people-list">
-        <li><span class="person-name">Kai Cui</span><span><span class="person-meta">2025–present</span> Remote Sensing Image Super-Resolution · ACM MM 2026 Workshop paper</span></li>
-        <li><span class="person-name">Hongxin Zhang</span><span><span class="person-meta">2025–present</span> Retinal Fundus Image Enhancement · co-advised with Dr. Lvchen Cao</span></li>
-        <li><span class="person-name">Mengru Chen</span><span><span class="person-meta">2026–present</span> 3DGS Quality Assessment</span></li>
-        <li><span class="person-name">Wenbo Zhang</span><span><span class="person-meta">2026–present</span> Light Field Image Super-Resolution</span></li>
-        <li><span class="person-name">Jiayi Luo</span><span><span class="person-meta">2026–present</span> Image Super-Resolution</span></li>
+        <li><span class="person-name">Kai Cui</span><span><span class="person-meta">(Henan University, 2025–now)</span> <em>Remote Sensing Image Super-Resolution</em> <span class="person-note">(ACMMM2026W*1)</span></span></li>
+        <li><span class="person-name">Hongxin Zhang</span><span><span class="person-meta">(Henan University, 2025–now, co-advised with Dr. Lvchen Cao)</span> <em>Retinal Fundus Image Enhancement</em></span></li>
+        <li><span class="person-name">Mengru Chen</span><span><span class="person-meta">(Henan University, 2026–now)</span> <em>3DGS Quality Assessment</em></span></li>
+        <li><span class="person-name">Wenbo Zhang</span><span><span class="person-meta">(Henan University, 2026–now)</span> <em>Light Field Image Super-Resolution</em></span></li>
+        <li><span class="person-name">Jiayi Luo</span><span><span class="person-meta">(Henan University, 2026–now)</span> <em>Image Super-Resolution</em></span></li>
       </ul>
     </div>
 
     <div class="people-group">
       <h3>Undergraduate Students</h3>
       <ul class="people-list">
-        <li><span class="person-name">Xiaochen Li</span><span><span class="person-meta">2025–present</span> Remote Sensing Image Super-Resolution</span></li>
-        <li><span class="person-name">Shaohui Liang</span><span><span class="person-meta">2026–present</span> Remote Sensing Image Super-Resolution</span></li>
-        <li><span class="person-name">Yiyi Wang</span><span><span class="person-meta">2026–present</span> Remote Sensing Image Super-Resolution</span></li>
-        <li><span class="person-name">Xucheng Du</span><span><span class="person-meta">2026–present</span> Remote Sensing Image Super-Resolution</span></li>
+        <li><span class="person-name">Xiaochen Li</span><span><span class="person-meta">(Henan University, 2025–now)</span> <em>Remote Sensing Image Super-Resolution</em></span></li>
+        <li><span class="person-name">Shaohui Liang</span><span><span class="person-meta">(Henan University, 2026–now)</span> <em>Remote Sensing Image Super-Resolution</em></span></li>
+        <li><span class="person-name">Yiyi Wang</span><span><span class="person-meta">(Henan University, 2026–now)</span> <em>Remote Sensing Image Super-Resolution</em></span></li>
+        <li><span class="person-name">Xucheng Du</span><span><span class="person-meta">(Henan University, 2026–now)</span> <em>Remote Sensing Image Super-Resolution</em></span></li>
       </ul>
     </div>
 
     <div class="people-group">
       <h3>Undergraduate Research Orientation</h3>
       <ul class="people-list">
-        <li><span class="person-name">Ke Xu</span><span><span class="person-meta">2026–present</span> 3DGS Super-Resolution</span></li>
-        <li><span class="person-name">Jinghan Tian</span><span><span class="person-meta">2026–present</span> 3DGS Super-Resolution</span></li>
-        <li><span class="person-name">Jiaxuan Li</span><span><span class="person-meta">2026–present</span> 3DGS Super-Resolution</span></li>
-        <li><span class="person-name">Chenshuo Xu</span><span><span class="person-meta">2026–present</span> 3DGS Quality Assessment</span></li>
-        <li><span class="person-name">Jinyao Ma</span><span><span class="person-meta">2026–present</span> 3DGS Quality Assessment</span></li>
-        <li><span class="person-name">Yujie Wang</span><span><span class="person-meta">2026–present</span> 3DGS Quality Assessment</span></li>
+        <li><span class="person-name">Ke Xu</span><span><span class="person-meta">(Henan University, 2026–now)</span> <em>3DGS Super-Resolution</em></span></li>
+        <li><span class="person-name">Jinghan Tian</span><span><span class="person-meta">(Henan University, 2026–now)</span> <em>3DGS Super-Resolution</em></span></li>
+        <li><span class="person-name">Jiaxuan Li</span><span><span class="person-meta">(Henan University, 2026–now)</span> <em>3DGS Super-Resolution</em></span></li>
+        <li><span class="person-name">Chenshuo Xu</span><span><span class="person-meta">(Henan University, 2026–now)</span> <em>3DGS Quality Assessment</em></span></li>
+        <li><span class="person-name">Jinyao Ma</span><span><span class="person-meta">(Henan University, 2026–now)</span> <em>3DGS Quality Assessment</em></span></li>
+        <li><span class="person-name">Yujie Wang</span><span><span class="person-meta">(Henan University, 2026–now)</span> <em>3DGS Quality Assessment</em></span></li>
       </ul>
     </div>
   </section>
@@ -141,7 +141,7 @@ redirect_from:
   <section class="about-section">
     <h2><span class="section-icon" aria-hidden="true">📽️</span> Alumni</h2>
     <ul class="people-list">
-      <li><span class="person-name">Shuojie Zhu</span><span><span class="person-meta">2026.01–2026.09</span> Undergraduate student, Henan Normal University · Direct-entry Ph.D. student at Xidian University, jointly trained with Peng Cheng Laboratory</span></li>
+      <li><span class="person-name">Shuojie Zhu</span><span><span class="person-meta">(Undergraduate Student, Henan Normal University, 2026.01–2026.09)</span> <em>(Direct-Entry Ph.D. Student, Xidian University, Joint Training with Peng Cheng Laboratory)</em></span></li>
     </ul>
   </section>
 
