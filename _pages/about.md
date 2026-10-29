@@ -10,6 +10,7 @@ redirect_from:
 
 <div class="about-page">
   <nav class="about-nav" aria-label="About page navigation">
+    <span class="about-nav__title">On this page</span>
     <ul>
       <li><a href="#about-me">About Me</a></li>
       <li><a href="#news">News</a></li>
