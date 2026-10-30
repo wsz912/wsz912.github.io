@@ -9,6 +9,18 @@ redirect_from:
 ---
 
 <div class="about-page">
+  <nav class="about-nav" aria-label="About page navigation">
+    <ul>
+      <li><a href="#about-me">About Me</a></li>
+      <li><a href="#news">News</a></li>
+      <li><a href="#academic-service">Academic Service</a></li>
+      <li><a href="#awards">Awards</a></li>
+      <li><a href="#vcg">VCG</a></li>
+      <li><a href="#alumni">Alumni</a></li>
+      <li><a href="#teaching">Teaching</a></li>
+    </ul>
+  </nav>
+
   <div id="about-me" class="about-intro">
     <p>I am a lecturer (HENU-100 Talents Program) at Henan University. Prior to that, I was a postdoctoral researcher at Peking University Shenzhen Graduate School, working closely with Tenured Associate Professor <a href="https://gaowei262.github.io/">Wei Gao</a>. I received my Ph.D. degree from Beijing Institute of Technology, under the supervision of Professor <a href="https://www.smbu.edu.cn/info/5721/77061.htm">Yao Lu</a>. My current research interests include light field image super-resolution, depth estimation and 3DGS.</p>
     <p>I am lucky to have opportunities to work closely with Professor <a href="https://www.tfzhou.com/">Tianfei Zhou</a> (Beijing Institute of Technology). I am also happy to cooperate with excellent junior fellow <a href="https://scholar.google.com/citations?user=JoYMbL0AAAAJ&amp;hl=zh-CN">Wang Xia</a>, <a href="https://scholar.google.com/citations?user=A6lGtjQAAAAJ&amp;hl=zh-CN">Ziman Fan</a>, et al..</p>
