@@ -136,13 +136,13 @@ redirect_from:
         <li><span class="person-name">Yujie Wang</span><span><span class="person-meta">(Henan University, 2026–now)</span> <em>3DGS Quality Assessment</em></span></li>
       </ul>
     </div>
-  </section>
 
-  <section id="alumni" class="about-section">
-    <h2><span class="section-icon" aria-hidden="true">📽️</span> Alumni</h2>
-    <ul class="people-list">
-      <li><span class="person-name">Shuojie Zhu</span><span><span class="person-meta">(Undergraduate Student, Henan Normal University, 2026.01–2026.09)</span> <em>(Direct-Entry Ph.D. Student, Xidian University, Joint Training with Peng Cheng Laboratory)</em></span></li>
-    </ul>
+    <div id="alumni" class="people-group">
+      <h3><span aria-hidden="true">📽️</span> Alumni</h3>
+      <ul class="people-list">
+        <li><span class="person-name">Shuojie Zhu</span><span><span class="person-meta">(Undergraduate Student, Henan Normal University, 2026.01–2026.09)</span> <em>(Direct-Entry Ph.D. Student, Xidian University, Joint Training with Peng Cheng Laboratory)</em></span></li>
+      </ul>
+    </div>
   </section>
 
   <section id="teaching" class="about-section">
