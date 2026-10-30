@@ -138,7 +138,7 @@ redirect_from:
     </div>
 
     <div id="alumni" class="people-group">
-      <h3><span aria-hidden="true">📽️</span> Alumni</h3>
+      <h3>Alumni</h3>
       <ul class="people-list">
         <li><span class="person-name">Shuojie Zhu</span><span><span class="person-meta">(Undergraduate Student, Henan Normal University, 2026.01–2026.09)</span> <em>(Direct-Entry Ph.D. Student, Xidian University, Joint Training with Peng Cheng Laboratory)</em></span></li>
       </ul>
